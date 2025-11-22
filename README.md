@@ -1,4 +1,6 @@
 # Alternative Housing Market Analysis
+# Scroll to the bottom for instructions of how to run everything!
+
 
 ## Visual Analysis Results
 
