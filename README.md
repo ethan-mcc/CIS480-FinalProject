@@ -62,9 +62,27 @@ This project analyzes the rise of alternative housing (RVs, vans, boats) across 
 ## Usage
 
 ### Prerequisites
-*   Python 3.x
+*   Python 3.9 or higher
+*   pip (Python package manager)
 
-**1. Activate Virtual Environment**
+### Setup Instructions
+
+**1. Clone the Repository**
+```bash
+git clone https://github.com/ethan-mcc/CIS480-FinalProject.git
+cd CIS480-FinalProject
+```
+
+**2. Create Virtual Environment**
+```bash
+# macOS/Linux
+python3 -m venv venv
+
+# Windows
+python -m venv venv
+```
+
+**3. Activate Virtual Environment**
 ```bash
 # macOS/Linux
 source venv/bin/activate
@@ -73,10 +91,12 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-**2. Install Dependencies**
+**4. Install Dependencies**
 ```bash
-pip install pandas numpy requests matplotlib seaborn statsmodels
+pip install -r requirements.txt
 ```
+
+> **Note:** The virtual environment (`venv/`) is not tracked in git. You must create it locally using the steps above.
 
 ### 1. Build the Dataset
 Run the master pipeline to download and process all raw data.
