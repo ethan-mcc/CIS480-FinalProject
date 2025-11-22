@@ -1,0 +1,1154 @@
+id,Model,Year,Vehicle_Age,Nightly Price,Amenity Count,Has Bathroom,Has Generator,Instant Book,sleeps,length,review_score,City,State,lat,lng
+1640820,RAM Promaster 3500 EXT High Roof,2021,4,250.0,3,1,1,True,2,19.0,0.0,Robertsdale,AL,30.53,-87.58
+1736928,Winnebago Travato 59G,2018,7,199.0,2,1,1,False,3,21.0,100.0,Orange Beach,AL,30.29,-87.62
+1731061,Mercedes Sprinter 2500,2016,9,178.0,2,1,1,False,4,19.6,0.0,Pace,FL,30.63,-87.19
+1719711,Midwest Automotive Designs Passage MD4 Lounge 170 EXT,2021,4,191.0,0,0,0,False,2,24.0,100.0,Pelham,AL,33.31,-86.78
+1686274,Winnebago Era 70X,2014,11,195.0,2,1,1,False,2,24.0,100.0,Birmingham,AL,33.42,-86.66
+1669451,Sprinter Mercedes 2500,2014,11,300.0,0,0,0,False,1,20.0,0.0,Birmingham,AL,33.41,-86.64
+1751158,Winnebago Solis 59PX,2021,4,299.0,1,0,1,False,4,21.0,0.0,New Market,AL,34.94,-86.43
+1625413,Ford Transit High Roof,2020,5,200.0,0,0,0,False,3,22.0,100.0,Chattanooga,TN,35.09,-85.24
+1698254,Mercedes Mercedes Sprinter,2017,8,265.0,2,1,0,True,2,19.0,95.0,Anchorage,AK,61.14,-149.85
+1641848,Sprinter Mercedes 2wd,2014,11,265.0,2,1,0,True,2,19.0,100.0,Anchorage,AK,61.14,-149.85
+1647659,Mercedes Sprinter 2500 4x4,2022,3,361.0,1,1,0,False,2,19.0,100.0,Anchorage,AK,61.14,-149.85
+1590799,Mercedes freightliner Sprinter 2500 4x4,2021,4,329.0,2,1,0,True,2,19.0,100.0,Anchorage,AK,61.14,-149.85
+1431992,Dodge promaster 2500,2018,7,243.0,1,1,0,False,2,20.0,100.0,Anchorage,AK,61.16,-149.84
+1749887,Winnebago Travato 59K,2018,7,379.0,2,0,1,True,2,21.0,0.0,Anchorage,AK,61.22,-149.87
+1749890,Roadtrek Roadtrek Chase,2022,3,409.0,2,0,1,True,2,20.0,0.0,Anchorage,AK,61.22,-149.87
+1648461,Ford Transit High Roof,2019,6,280.0,1,0,1,False,2,22.0,83.333,Anchorage,AK,61.16,-149.87
+1667392,Mercedes Sprinter 2500,2015,10,349.0,0,0,0,False,3,22.0,86.667,Anchorage,AK,61.16,-149.87
+1709066,"RAM Promaster 159"" Converted Campervan",2023,2,299.0,0,0,0,False,4,20.0,0.0,Anchorage,AK,61.1,-149.86
+1569968,Ford Transit 350 High Roof,2020,5,349.0,1,1,0,False,4,22.0,100.0,Anchorage,AK,61.16,-149.87
+1709061,Mercedes Sprinter Converted Sprinter van,2020,5,299.0,0,0,0,False,4,20.0,100.0,Anchorage,AK,61.1,-149.86
+1740766,"Dodge Ram Promaster 159""",2021,4,299.0,1,0,1,False,4,13.25,0.0,Anchorage,AK,61.1,-149.86
+1677685,Mercedes-Benz Sprinter 2500,2021,4,349.0,1,0,1,False,5,21.0,100.0,Anchorage,AK,61.16,-149.87
+1716634,Winnebago Solis 36A,2021,4,280.0,1,0,1,False,3,18.0,80.0,Anchorage,AK,61.16,-149.87
+1613277,Mercedes Bens Mercedes Sprinter,2008,17,349.0,0,0,0,False,2,24.0,0.0,Anchorage,AK,61.16,-149.87
+1667385,Mercedes Sprinter 2500,2013,12,329.0,0,0,0,False,4,22.0,100.0,Anchorage,AK,61.16,-149.87
+1714582,Ram Promaster Cargo Van,2015,10,280.0,1,0,1,False,2,18.0,0.0,Anchorage,AK,61.16,-149.87
+1714695,Dodge Grand Caravan,2017,8,209.0,1,0,1,False,4,17.0,0.0,Anchorage,AK,61.16,-149.87
+1716734,Dodge Promaster Van,2018,7,329.0,1,0,1,False,2,19.0,0.0,Anchorage,AK,61.16,-149.87
+1662870,Mercedes Sprinter 2500,2021,4,329.0,0,0,0,False,2,22.0,100.0,Anchorage,AK,61.16,-149.87
+1664369,Ford Transit High Roof 350,2016,9,339.0,1,1,0,False,4,22.0,100.0,Anchorage,AK,61.16,-149.87
+1476649,Ram Promaster 1500,2019,6,275.0,0,0,0,False,2,18.0,0.0,Anchorage,AK,61.17,-149.98
+1712184,Roadtrek Adventurous CS,2017,8,136.0,2,1,0,True,3,24.0,99.2,Goodyear,AZ,33.49,-112.41
+1757842,Ford Transit Van N/A,2023,2,140.0,0,0,0,False,2,19.0,0.0,Phoenix,AZ,33.4,-112.17
+1648755,Winnebago Revel 44E,2023,2,249.0,2,1,1,False,3,19.7,100.0,Buckeye,AZ,33.49,-112.49
+1648936,Winnebago Revel 44E,2023,2,299.0,3,1,1,True,3,19.7,0.0,Buckeye,AZ,33.49,-112.49
+1650131,Winnebago Revel 44E,2023,2,299.0,3,1,1,True,3,19.7,100.0,Buckeye,AZ,33.49,-112.49
+1650340,Winnebago Revel 44E,2023,2,299.0,2,1,0,True,3,19.7,100.0,Buckeye,AZ,33.49,-112.49
+1689243,Winnebago Revel 44E,2024,1,249.0,2,1,0,True,3,19.6,100.0,Buckeye,AZ,33.49,-112.49
+1609326,Ford Transit T250,2015,10,102.0,1,0,0,True,2,18.0,83.636,Chandler,AZ,33.35,-111.88
+1732583,Winnebago Solis 59PX,2025,0,195.0,3,1,1,True,4,21.0,100.0,Phoenix,AZ,33.58,-112.03
+1743299,mercedes-benz Sprinter 2500,2019,6,219.0,1,1,0,False,2,23.0,100.0,Mesa,AZ,33.38,-111.76
+1622538,Thor Motor Coach Tellaro 20AT,2022,3,172.0,2,1,1,False,3,21.0,96.0,Wittmann,AZ,33.74,-112.55
+1754760,Pleasure-Way Plateau TS,2021,4,180.0,2,1,1,False,3,22.75,100.0,Phoenix,AZ,33.5,-112.08
+1692976,Thor Motor Coach Tellaro 20L,2023,2,209.0,3,1,1,True,2,21.0,100.0,Chandler,AZ,33.28,-111.96
+1625083,Winnebago Solis 59P,2022,3,225.0,2,0,1,True,2,20.0,100.0,Chandler,AZ,33.26,-111.81
+1738911,Thor Motor Coach Tranquility 19M,2025,0,239.0,1,1,0,False,2,20.0,100.0,Phoenix,AZ,33.56,-112.07
+1739532,Entegra Coach Ethos 20T,2024,1,225.0,2,1,1,False,2,21.0,0.0,Chandler,AZ,33.29,-111.95
+1693777,Mercedes Sprinter Van OLYMPUS,2023,2,191.0,1,1,0,False,2,19.5,100.0,Gilbert,AZ,33.33,-111.72
+1712190,Jayco Swift 20D,2023,2,170.0,3,1,1,True,4,20.0,56.0,Phoenix,AZ,33.72,-112.1
+1617128,Airstream RV Interstate Lounge EXT Lounge EXT,2016,9,357.0,2,1,1,False,4,24.0,100.0,Phoenix,AZ,33.6,-112.05
+1742285,Grech RV Strada-ion Tour,2024,1,319.0,1,1,0,False,2,24.0,0.0,Chandler,AZ,33.29,-111.95
+1646861,Midwest Automotive Designs Daycruiser 144 Plan B,2022,3,345.0,1,1,0,False,2,20.0,100.0,Chandler,AZ,33.31,-111.87
+1755668,Pleasure-Way Tofino Std. Model,2021,4,150.0,3,1,1,True,4,17.0,100.0,Gilbert,AZ,33.37,-111.76
+1747340,Winnebago Solis 59PX,2025,0,335.0,1,0,1,False,4,21.0,100.0,Phoenix,AZ,33.4,-112.0
+1739870,Winnebago Solis 59PX,2025,0,335.0,1,0,1,False,4,21.0,0.0,Phoenix,AZ,33.4,-112.0
+1739877,Winnebago Solis 59PX,2025,0,335.0,1,0,1,False,4,21.0,0.0,Phoenix,AZ,33.4,-112.0
+1640060,Thor Motor Coach Scope 18M,2022,3,149.0,2,1,1,False,2,18.0,100.0,Tempe,AZ,33.37,-111.9
+1626842,Winnebago Solis 59P,2023,2,197.0,2,1,1,False,4,20.0,86.667,Gilbert,AZ,33.36,-111.76
+1655621,Leisure Travel Serenity 24CB,2019,6,223.0,2,1,1,False,4,24.0,0.0,Scottsdale,AZ,33.72,-111.9
+1743566,Ultimate Toys Mercedes-Benz Ultimate Coach,2026,-1,350.0,0,0,0,False,2,24.0,0.0,Mesa,AZ,33.38,-111.71
+1592671,Mercedes Benz Spinter 2500,2011,14,221.0,1,1,0,False,2,20.0,0.0,Mesa,AZ,33.44,-111.71
+1739995,OGV Luxury Coach V-RV 2TB,2025,0,350.0,1,1,0,False,2,24.0,0.0,San Tan Valley,AZ,33.26,-111.55
+1561528,Winnebago Revel 44E,2020,5,350.0,3,1,1,True,3,19.0,0.0,Sedona,AZ,34.79,-111.76
+1736136,Winnebago Solis 59PX,2025,0,199.0,3,1,1,True,4,21.0,0.0,Springdale,AR,36.2,-94.13
+1747432,Thor Motor Coach Sanctuary 19P,2023,2,225.0,2,1,1,False,2,19.0,0.0,Hot Springs,AR,34.45,-93.04
+1758705,Winnebago Solis 59P,2025,0,265.0,2,1,1,False,4,21.0,0.0,Maumelle,AR,34.9,-92.42
+1722545,Storyteller Overland Storyteller Overland Stealth MODE 4x4,2022,3,299.0,2,1,1,False,2,20.0,0.0,Little Rock,AR,34.78,-92.35
+1676570,Mercedez Sprint Sprint,2022,3,199.0,2,1,1,False,2,19.5,100.0,Fort Smith,AR,35.28,-94.43
+1654611,Winnebago ultra lite 28BDHS,2016,9,150.0,0,0,0,False,5,31.0,0.0,Broken Bow,OK,34.3,-94.81
+1739481,Winnebago Solis 59P,2021,4,220.0,2,0,1,True,5,19.0,100.0,Alameda,CA,37.75,-122.23
+1589944,Ford Transit Custom,2019,6,187.0,1,0,1,False,5,22.0,100.0,Livermore,CA,37.67,-121.77
+1752907,chevy Chevy Express,1998,27,80.0,0,0,0,False,2,18.0,100.0,Santa Clara,CA,37.36,-121.95
+1638915,Airstream RV Interstate Nineteen Std. Model,2021,4,329.0,1,0,1,False,3,19.0,100.0,Pleasanton,CA,37.67,-121.9
+1738261,Entegra Coach Launch 19Y,2023,2,250.0,1,1,0,False,3,19.0,0.0,Danville,CA,37.8,-121.89
+1710042,Roadtrek Roadtrek Zion,2019,6,195.0,2,1,1,False,3,20.0,100.0,Alameda,CA,37.73,-122.23
+1558131,Mercedes Benz Metris Getaway,2020,5,199.0,1,0,1,False,4,17.0,100.0,Danville,CA,37.82,-121.99
+1648167,Winnebago Solis 59P,2022,3,190.0,1,1,0,False,4,20.0,100.0,San Jose,CA,37.31,-121.77
+1217444,Unknown Maybach 32M,2006,19,139.0,2,1,1,False,2,17.5,100.0,Walnut Creek,CA,37.9,-122.0
+1616669,Unknown Maybach 32M,2006,19,153.0,2,1,1,False,2,17.0,60.0,Walnut Creek,CA,37.9,-122.0
+1756359,Dodge Ram Promaster 2500,2018,7,237.0,3,1,1,True,4,20.0,0.0,Hayward,CA,37.64,-122.08
+1698234,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,0.0,Hayward,CA,37.65,-122.13
+1637549,Winnebago Travato 59G,2020,5,229.0,2,1,1,False,3,21.0,100.0,Newark,CA,37.53,-122.0
+1743699,Airstream RV Interstate 24GL Std. Model,2022,3,212.0,2,0,1,True,2,24.0,100.0,Lathrop,CA,37.82,-121.31
+1543910,winnebago solis 59p,2022,3,234.0,1,1,0,False,4,20.0,100.0,Cupertino,CA,37.32,-122.02
+1473797,Winnebago Revel 44E,2021,4,330.0,1,1,0,False,3,19.0,100.0,Danville,CA,37.82,-121.99
+1461082,American Coach American Heritage 45A,2015,10,229.0,1,0,1,False,5,45.0,0.0,San Ramon,CA,37.76,-121.97
+1606095,mercedes benz sprinter Sprinter 2500,2021,4,199.0,1,1,0,False,3,20.0,100.0,Castro Valley,CA,37.71,-122.1
+1221998,Chevrolet KUGA Campervan,2013,12,60.0,1,1,0,False,3,19.0,90.0,Hayward,CA,37.65,-122.13
+1573988,Chevrolet Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,0.0,Hayward,CA,37.65,-122.13
+1631108,Thor Motor Coach Scope 18T,2022,3,209.0,2,0,1,True,4,18.0,90.0,San Jose,CA,37.32,-121.84
+1574039,Winnebago Revel 44E,2021,4,275.0,2,1,1,False,2,19.0,100.0,Hercules,CA,38.01,-122.29
+1698227,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,0.0,Hayward,CA,37.65,-122.13
+1698230,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,0.0,Hayward,CA,37.65,-122.13
+1700060,Winnebago Solis 59PX,2023,2,225.0,2,1,1,False,4,21.0,100.0,Sunnyvale,CA,37.36,-122.04
+1580200,Hymer Hymer Aktiv 2.0 w/ loft,2019,6,249.0,2,1,1,False,4,21.0,100.0,San Jose,CA,37.32,-121.93
+1573983,Chevrolet Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,0.0,Hayward,CA,37.65,-122.13
+1449771,Chevy Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,0.0,Hayward,CA,37.65,-122.13
+1757202,Winnebago Solis 59P,2022,3,179.0,2,0,1,True,4,19.9,100.0,Campbell,CA,37.29,-121.97
+1670066,Winnebago Era 70B,2018,7,213.0,3,1,1,True,2,24.0,98.0,Tiburon,CA,37.88,-122.46
+1619360,Winnebago Revel 44E,2020,5,226.0,2,1,1,False,5,19.0,100.0,San Jose,CA,37.25,-121.89
+1751994,Winnebago Solis 59PX,2025,0,250.0,2,1,1,False,4,21.0,100.0,Tracy,CA,37.68,-121.45
+1600931,Roadtrek Roadtrek Zion Slumber,2021,4,374.0,2,1,1,False,5,20.9,100.0,Pacifica,CA,37.6,-122.51
+1717743,Entegra Coach Ethos 20T,2023,2,189.0,3,1,1,True,2,20.0,100.0,Oakdale,CA,37.79,-120.82
+1594899,Winnebago Solis 59PX,2023,2,192.0,2,1,1,False,4,21.0,95.714,Folsom,CA,38.65,-121.15
+1669566,Dodge ProMaster 2500,2018,7,185.0,3,1,1,True,3,17.0,100.0,Valley Springs,CA,38.18,-120.93
+1649610,Winnebago Solis 59PX,2023,2,216.0,1,0,1,False,4,21.0,80.0,Rancho Cordova,CA,38.55,-121.2
+1683968,Thor Motor Coach Synergy 19P,2022,3,206.0,1,0,0,True,2,20.0,100.0,Rocklin,CA,38.78,-121.22
+1689579,Hymer Carado Banff,2017,8,240.0,3,1,1,True,3,20.0,100.0,Rocklin,CA,38.78,-121.22
+1736863,Hymer Van One Sunlight,2017,8,232.0,1,1,0,False,3,20.0,0.0,Rocklin,CA,38.78,-121.22
+1660106,Midwest Automotive Designs Passage MD4 Lounge 170 EXT,2022,3,220.0,1,0,1,False,3,24.0,0.0,Elk Grove,CA,38.42,-121.37
+1743222,Winnebago Revel 44E,2023,2,215.0,2,0,1,True,3,19.0,0.0,Sacramento,CA,38.57,-121.31
+1753902,Winnebago Revel 44E,2020,5,242.0,3,1,1,True,3,20.0,0.0,Sacramento,CA,38.57,-121.31
+1753934,Coachmen RV Beyond 22C AWD,2021,4,238.0,3,1,1,True,2,22.17,0.0,Sacramento,CA,38.57,-121.31
+1635333,Pleasure Way Rekon 4x4,2022,3,200.0,0,0,0,False,2,19.0,100.0,Carmichael,CA,38.61,-121.33
+1603262,Leisure Travel Free Spirit Free Spirit SS,2013,12,275.0,1,0,1,False,2,22.0,0.0,Sonora,CA,37.96,-120.29
+1700338,Mercedes-Benz Custom Sprinter Short Wheelbase Custom Conversion,2024,1,275.0,0,0,0,False,2,19.0,0.0,Rancho Cordova,CA,38.61,-121.25
+1585211,Thor Motor Coach Scope 18M,2022,3,220.0,2,1,1,False,2,18.0,100.0,Citrus Heights,CA,38.68,-121.27
+1648917,Gulf Stream RV BT Cruiser 5210,2020,5,225.0,1,0,1,False,2,22.0,0.0,Auburn,CA,38.94,-121.17
+1732518,Chrysler Chrysler Town Country,2013,12,90.0,1,0,1,False,2,17.5,100.0,Sacramento,CA,38.62,-121.5
+1716685,Mercedes-Benz Mercedes-Benz Sprinter 2500,2024,1,299.0,2,0,1,True,3,23.0,0.0,Rancho Cordova,CA,38.61,-121.25
+1716186,Mercedes-Benz Custom Sprinter Custom Sprinter Campervan,2024,1,299.0,1,1,0,False,4,23.0,0.0,Rancho Cordova,CA,38.61,-121.25
+1716193,Mercedes-Benz Sprinter Custom Campervan,2024,1,299.0,0,0,0,False,2,23.0,0.0,Rancho Cordova,CA,38.61,-121.25
+1695999,Mercedes Benz Mercedes Benz Sprinter 2500,2023,2,275.0,1,1,0,False,2,19.0,0.0,Rancho Cordova,CA,38.61,-121.25
+1641352,Winnebago Solis 59PX,2022,3,225.0,2,1,1,False,4,21.0,100.0,West Sacramento,CA,38.57,-121.53
+1724781,Chrysler 2014 Town country,2014,11,90.0,0,0,0,False,2,17.5,100.0,Sacramento,CA,38.62,-121.5
+1716911,Winnebago Era 70X,2016,9,199.0,3,1,1,True,2,24.0,60.0,Elk Grove,CA,38.42,-121.42
+1542162,Jayco Swift 20T,2021,4,220.0,2,1,1,False,2,20.0,100.0,Sacramento,CA,38.64,-121.52
+1588689,Thor Motor Coach Sanctuary 19P,2022,3,227.0,1,1,0,False,3,20.0,100.0,Elk Grove,CA,38.4,-121.41
+1658607,Toyota Toyota FJ,2007,18,127.0,0,0,0,False,5,15.0,0.0,Rio Linda,CA,38.7,-121.43
+1745345,Thor Motor Coach Compass 23TE,2021,4,235.0,1,0,1,False,2,23.0,0.0,Roseville,CA,38.75,-121.3
+1694327,Winnebago Revel 44E,2023,2,215.0,1,1,0,False,2,19.5,100.0,Sacramento,CA,38.56,-121.51
+1733704,Jayco Swift 20A,2022,3,225.0,2,1,1,False,2,20.0,0.0,Stockton,CA,38.04,-121.25
+1750319,Dodge Ram 1500,2018,7,140.0,0,0,0,False,2,18.0,0.0,Escalon,CA,37.81,-121.0
+1591274,Thor Motor Coach Scope 18M,2022,3,199.0,1,0,1,False,2,18.0,100.0,Lincoln,CA,38.9,-121.28
+1530977,Jayco Swift 20T,2021,4,220.0,2,1,1,False,2,20.0,95.0,Yuba City,CA,39.14,-121.63
+1552881,Jayco Swift 20T,2021,4,220.0,2,1,1,False,2,20.0,97.143,Yuba City,CA,39.14,-121.63
+1595728,Winnebago Travato 59G,2020,5,225.0,2,1,1,False,4,21.0,100.0,Modesto,CA,37.69,-120.94
+1680631,Thor Motor Coach Sanctuary 19L,2022,3,150.0,2,1,1,False,2,19.0,100.0,Turlock,CA,37.51,-120.82
+1171364,Roadtrek Agile SS,2016,9,209.0,3,1,1,True,2,20.0,100.0,Vallejo,CA,38.09,-122.19
+1600840,Thor Sanctuary 19 P,2022,3,209.0,2,1,1,False,4,19.8,100.0,Oakley,CA,37.97,-121.73
+1627386,Winnebago Solid 36A,2022,3,175.0,1,1,0,False,3,18.0,100.0,Oakley,CA,37.99,-121.74
+1748492,Mercedes Benz Sprinter Sprinter,2019,6,350.0,1,0,1,False,6,24.0,0.0,Piedmont,CA,37.82,-122.24
+1587036,Thor Scope 18M,2022,3,209.0,2,1,1,False,2,18.0,96.19,Fairfax,CA,37.99,-122.6
+1750827,Midwest Automotive Designs Passage MD2 Lounge 170 EXT,2021,4,233.0,3,1,1,True,2,24.0,100.0,Fairfield,CA,38.27,-122.07
+1532119,Jayco Swift 20T,2021,4,220.0,2,1,1,False,3,20.0,92.5,Suisun City,CA,38.24,-122.03
+1729456,Winnebago Revel 44E,2024,1,215.0,1,1,0,False,3,20.0,100.0,Napa,CA,38.3,-122.32
+1738549,mercedes Sprinter awd 144 High Roof,2024,1,295.0,1,1,0,False,4,20.0,100.0,San Rafael,CA,37.97,-122.55
+1707902,Winnebago Revel 44E,2023,2,249.0,2,1,0,True,2,19.0,100.0,San Francisco,CA,37.75,-122.49
+1555615,Thor Motor Coach Sanctuary 19P,2022,3,225.0,2,1,1,False,4,19.0,87.5,Dixon,CA,38.46,-121.84
+1531194,Jayco Swift 20T,2021,4,220.0,2,1,1,False,2,20.0,80.0,Suisun City,CA,38.24,-122.03
+1491987,Coachmen RV Beyond 22C,2020,5,233.0,2,1,1,False,2,22.0,60.0,Suisun City,CA,38.24,-122.03
+1491896,Coachmen RV Beyond 22C,2020,5,233.0,2,1,1,False,2,22.0,92.727,Suisun City,CA,38.24,-122.03
+1475221,GMC Safari Camper Conversion,2000,25,159.0,2,0,1,True,2,15.0,0.0,Sonoma,CA,38.3,-122.48
+1756366,Thor Motor Coach Freedom Elite 17D,2026,-1,189.0,2,1,0,True,3,17.5,0.0,Brookings,OR,42.06,-124.28
+1460797,Dodge Ram ProMaster,2017,8,225.0,1,0,1,False,2,19.0,100.0,Truckee,CA,39.34,-120.18
+1197283,Winnebago Revel 44E,2019,6,275.0,2,1,1,False,3,19.0,100.0,Clovis,CA,36.8,-119.65
+1738930,Winnebago Solis NPF Limited Edition 59P,2025,0,218.0,1,1,0,False,4,20.0,100.0,Clovis,CA,36.82,-119.7
+1526414,Storyteller Overland Storyteller Overland Stealth MODE 4x4,2021,4,300.0,0,0,0,False,3,19.0,100.0,Clovis,CA,36.82,-119.65
+1590916,Thor Motor Coach Sanctuary 19P,2022,3,225.0,2,1,1,False,2,19.0,100.0,Clovis,CA,36.82,-119.7
+1694291,Winnebago Solis 59P,2023,2,214.0,1,1,0,False,4,19.0,100.0,Clovis,CA,36.82,-119.7
+1694286,Winnebago Solis 59PX,2023,2,235.0,2,1,1,False,4,21.0,0.0,Clovis,CA,36.82,-119.7
+1431828,Winnebago Era 70X,2019,6,225.0,1,1,0,False,2,24.0,88.571,Porterville,CA,36.12,-119.04
+1248148,Winnebago Travato 59GL,2019,6,264.0,2,1,1,False,4,21.0,100.0,Sebastopol,CA,38.39,-122.81
+1239613,Mercedes-Benz Sprinter 2500,2018,7,275.0,1,0,1,False,2,23.0,100.0,Santa Rosa,CA,38.45,-122.8
+1668472,Pleasure-Way Excel TS2,1996,29,110.0,1,1,0,False,2,18.5,66.667,Santa Rosa,CA,38.42,-122.77
+1733163,Winnebago Solis 59PX,2025,0,252.0,3,1,1,True,5,21.0,100.0,Los Angeles,CA,34.16,-118.61
+1718998,Thor Motor Coach Tellaro 20J,2024,1,205.0,2,1,1,False,4,21.0,100.0,Los Angeles,CA,34.03,-118.37
+1687410,Winnebago Solis 59P,2021,4,234.0,2,1,0,True,4,19.75,100.0,Los Angeles,CA,34.16,-118.51
+1755690,Airstream RV Interstate Lounge EXT Lounge EXT,2016,9,212.0,2,1,1,False,2,24.0,0.0,Los Angeles,CA,34.03,-118.41
+1595056,Winnebago Solis Pocket,2022,3,212.0,2,1,1,False,3,17.0,100.0,Los Angeles,CA,34.13,-118.2
+1691637,Ford Ford E 150 XL,2004,21,80.0,0,0,0,False,2,18.0,0.0,Los Angeles,CA,34.12,-118.27
+1736569,Midwest Automotive Designs Daycruiser 144 Plan B,2023,2,300.0,2,1,0,True,2,19.6,100.0,Monterey Park,CA,34.04,-118.13
+1683027,Winnebago Revel 44E,2020,5,288.0,1,0,1,False,3,19.0,100.0,Los Angeles,CA,34.26,-118.59
+1642777,Roadtrek Adventurous RS,2008,17,180.0,1,1,0,False,3,22.0,0.0,Glendale,CA,34.14,-118.27
+1599429,Winnebago Boldt 70KL,2021,4,213.0,2,1,1,False,2,22.0,100.0,Los Angeles,CA,34.15,-118.43
+1200300,Ford Ford E-150 Ford E-150,2004,21,149.0,2,0,1,True,3,18.0,0.0,Los Angeles,CA,34.01,-118.43
+1441117,Roadtrek Popular 190,1992,33,185.0,2,1,1,False,2,19.0,0.0,Marina del Rey,CA,33.98,-118.46
+1444343,Ram Ram Promaster 2500,2018,7,185.0,0,0,0,False,2,13.0,0.0,Los Angeles,CA,34.1,-118.35
+1270070,FORD TRANSIT 350,2018,7,165.0,1,0,1,False,2,22.0,0.0,Santa Monica,CA,34.02,-118.47
+1256467,Coachmen RV Galleria 24Q,2018,7,235.0,1,0,1,False,4,24.0,0.0,Santa Clarita,CA,34.4,-118.42
+1030601,EHGNA Carado Banff,2019,6,230.0,2,1,1,False,2,19.5,100.0,Pasadena/Altadena,CA,34.21,-118.12
+1698220,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,100.0,Inglewood,CA,33.97,-118.36
+1737908,Thor Motor Coach Dazzle 2LB,2025,0,169.0,3,1,1,True,3,21.0,100.0,Huntington Beach,CA,33.74,-118.03
+1592044,Thor Motor Coach Rize 18M,2023,2,159.0,3,1,1,True,2,18.0,100.0,Huntington Beach,CA,33.74,-118.03
+1729203,Intervec Dodge Horizon 190,1987,38,135.0,3,1,1,True,4,19.0,0.0,Los Angeles,CA,33.95,-118.44
+1639784,Midwest Automotive Designs Passage 144 FD2 Lounge,2021,4,250.0,1,0,1,False,2,19.0,90.0,Los Angeles,CA,34.02,-118.4
+1677936,Roadtrek Simplicity SRT,2019,6,229.0,2,1,1,False,2,19.6,0.0,Los Angeles,CA,34.14,-118.22
+1742045,Phoenix USA Phoenix Cruiser 2100,1998,27,135.0,2,1,1,False,4,19.0,0.0,Los Angeles,CA,33.95,-118.44
+1748046,Coachmen RV Sportscoach RD 402TS,1991,34,135.0,3,1,1,True,6,20.0,0.0,Los Angeles,CA,33.95,-118.44
+1621188,Mercedes Benz Sprinter 2500,2020,5,289.0,1,1,0,False,2,18.0,0.0,Marina del Rey,CA,33.98,-118.46
+1755788,Winnebago Revel 44E,2024,1,235.0,2,0,1,True,3,19.0,0.0,Los Angeles,CA,34.21,-118.59
+1708938,Winnebago Solis NPF Limited Edition 59P,2024,1,245.0,1,1,0,False,4,20.0,0.0,Santa Clarita,CA,34.42,-118.43
+1156329,Gulf Stream RV BT Cruiser 5245,2006,19,139.0,2,1,1,False,4,24.0,0.0,Los Angeles,CA,34.21,-118.59
+1619121,Thor Motor Coach Scope 18M,2023,2,174.0,2,1,1,False,2,18.0,100.0,Santa Clarita,CA,34.41,-118.56
+1573969,Chevy Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,0.0,Inglewood,CA,33.97,-118.36
+1563063,Winnebago Solis 59P,2022,3,180.0,0,0,0,False,4,19.0,91.765,Garden Grove,CA,33.78,-118.04
+1221996,Chevy Express Kuga,2013,12,105.0,1,1,0,False,3,19.0,97.143,Inglewood,CA,33.97,-118.36
+1523359,Winnebago Solis 59PX,2021,4,227.0,2,1,1,False,4,21.0,100.0,Thousand Oaks,CA,34.19,-118.84
+1698224,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,0.0,Inglewood,CA,33.97,-118.36
+1573970,Chevy Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,0.0,Inglewood,CA,33.97,-118.36
+1183130,Ram Promaster 2500,2023,2,225.0,2,1,1,False,2,17.0,0.0,Glendale,CA,34.22,-118.25
+1248584,"ram RAM Promaster 136""",2022,3,225.0,1,1,0,False,2,18.0,0.0,Glendale,CA,34.22,-118.25
+1176276,RAM Promaster 1500,2023,2,225.0,1,1,0,False,2,17.0,0.0,Glendale,CA,34.22,-118.25
+1740705,"RAM RAM Promaster 136""",2024,1,265.0,2,1,1,False,2,17.0,0.0,Glendale,CA,34.22,-118.25
+1624096,Travois Mercedes Benz Evolve,2020,5,206.0,2,1,1,False,3,19.0,100.0,Santa Clarita,CA,34.44,-118.54
+1449764,Chevy Express Kuga,2013,12,60.0,1,1,0,False,3,19.0,60.0,Inglewood,CA,33.97,-118.36
+1698222,Ford Hi5 Campervan,2022,3,189.0,1,1,0,False,4,20.0,0.0,Inglewood,CA,33.97,-118.36
+1520158,Winnebago Solis 59PX,2022,3,289.0,2,1,1,False,4,21.0,100.0,Los Angeles,CA,34.09,-118.23
+1657629,Mercedes Sprinter 2500,2021,4,175.0,1,0,1,False,4,22.0,97.778,Costa Mesa,CA,33.66,-117.89
+1757366,Mercedes Sprinter 2500 AWD,2024,1,178.0,2,1,1,False,3,23.0,0.0,Los Angeles County,CA,34.43,-118.62
+1673726,Thor Motor Coach Tranquility 19P,2023,2,193.0,2,1,0,True,4,20.0,100.0,La Habra,CA,33.92,-117.96
+1604169,Midwest Automotive Designs Passage 144 4x4 Loft Bed,2021,4,236.0,3,1,1,True,2,19.0,100.0,Los Angeles,CA,33.75,-118.32
+1619386,Winnebago Solis 59P,2023,2,225.0,2,1,0,True,4,20.0,100.0,Garden Grove,CA,33.77,-117.97
+1616088,Forest River RV Lexington 283TS,2005,20,166.0,1,0,1,False,6,28.0,70.0,Santa Clarita,CA,34.43,-118.5
+1575978,mercedes Sprinter 2500,2017,8,199.0,1,1,0,False,2,22.0,98.71,Petaluma,CA,38.24,-122.61
+1710800,Ford Ford E-450,2005,20,171.0,1,0,0,True,2,22.0,0.0,Petaluma,CA,38.24,-122.64
+1685315,Toyota Tacoma with Custom Wooden Camper Toyota Tacoma,2017,8,135.0,0,0,0,False,2,15.0,0.0,San Anselmo,CA,37.99,-122.57
+114452,Roadtrek Roadtrek RS-Adventurous,2013,12,249.0,2,1,1,False,4,22.7,0.0,San Anselmo,CA,37.97,-122.56
+1454176,Roadtrek Agile SS,2016,9,80.0,1,0,1,False,2,19.0,0.0,Novato,CA,38.08,-122.51
+1705219,Ford Etransit XLT high roof,2022,3,169.0,1,0,1,False,2,24.0,0.0,Novato,CA,38.09,-122.52
+1540596,Thor Tranquility 19P,2022,3,216.0,2,1,1,False,2,20.0,100.0,Montara,CA,37.54,-122.51
+1657847,Winnebago Solis 59P,2022,3,232.0,2,1,1,False,4,19.0,100.0,Fairfield,CA,38.23,-122.14
+1633284,El capitan Story Maker VA,2020,5,235.0,0,0,0,False,3,24.0,0.0,Napa,CA,38.3,-122.29
+1651492,Thor Motor Coach Sequence 20L,2021,4,211.0,2,1,1,False,2,20.0,100.0,Burlingame,CA,37.58,-122.36
+1602915,Winnebago Travato 59K,2021,4,245.0,0,0,0,False,2,21.0,100.0,San Carlos,CA,37.51,-122.26
+1574938,Thor Motor Coach Tellaro 20AT,2022,3,259.0,1,0,1,False,4,21.0,73.333,Burlingame,CA,37.58,-122.36
+1712192,Winnebago Travato 59KL,2022,3,180.0,2,1,0,True,2,21.0,100.0,Fort Bragg,CA,39.45,-123.79
+1741333,Midwest Automotive Designs Daycruiser S6,2018,7,261.0,1,0,1,False,2,21.0,0.0,Carmel-by-the-Sea,CA,36.55,-121.91
+1675905,Entegra Coach Ethos 20A,2023,2,205.0,2,1,1,False,4,21.0,100.0,Carmel-by-the-Sea,CA,36.55,-121.91
+1621658,Thor Motor Coach Tellaro 20LT,2023,2,193.0,2,1,1,False,4,22.0,100.0,Salinas,CA,36.7,-121.66
+1612176,Pleasure-Way Lexor TS,2016,9,199.0,2,1,1,False,4,20.11,100.0,Newport Beach,CA,33.61,-117.92
+1749564,Unknown Big Bite 8X12 V-Front,2019,6,179.0,1,0,1,False,4,19.0,0.0,Costa Mesa,CA,33.66,-117.89
+1737887,Thor Motor Coach Sequence 20L,2021,4,242.0,3,1,1,True,3,20.0,0.0,Newport Beach,CA,33.62,-117.88
+1700369,Winnebago Solis 59P,2022,3,224.0,1,0,0,True,4,19.0,0.0,Huntington Beach,CA,33.67,-118.0
+1698472,Sprinter Mercedes 2500,2020,5,250.0,2,1,0,True,4,12.0,100.0,Anaheim,CA,33.81,-117.93
+1737898,Vanworks Mercedes-Benz Vanworks Switchback,2022,3,207.0,2,1,0,True,4,20.0,0.0,Irvine,CA,33.67,-117.74
+1736365,Ram Ram Promaster Ram Promaster 3500,2019,6,179.0,1,1,0,False,4,19.68,60.0,Huntington Beach,CA,33.72,-118.02
+1695602,Thor Motor Coach Scope 18M,2022,3,149.0,2,1,1,False,2,18.0,100.0,Huntington Beach,CA,33.67,-117.96
+1737883,Mercedes-Benz Texino Switchback II,2020,5,245.0,2,1,0,True,4,19.0,0.0,Newport Beach,CA,33.62,-117.88
+1737895,Winnebago Travato 59G,2020,5,245.0,3,1,1,True,3,21.0,0.0,Newport Beach,CA,33.62,-117.88
+1737896,Winnebago Travato 59K,2021,4,237.0,3,1,1,True,3,21.0,0.0,Newport Beach,CA,33.62,-117.88
+1739055,Vanworks Mercedes-Benz Vanworks Switchback,2022,3,206.0,3,1,1,True,4,20.0,0.0,Irvine,CA,33.67,-117.74
+1756908,Dodge Ram THOR Dazzle 2AB,2025,0,205.0,3,1,1,True,4,21.08,0.0,Irvine,CA,33.65,-117.75
+1747161,Thor Motor Coach Sequence 20A,2023,2,159.0,3,1,1,True,4,21.0,0.0,Irvine,CA,33.73,-117.78
+1549179,vw bus Westfalia,1979,46,189.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1674588,Winnebago Solis 59P,2022,3,192.0,1,0,1,False,4,19.0,100.0,Yorba Linda,CA,33.91,-117.84
+1646210,vw westfali vw,1979,46,179.0,2,0,1,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1666901,Volkswagen Westfalia Pop Top Camper Bus,1979,46,189.0,1,0,0,True,4,14.5,100.0,Costa Mesa,CA,33.64,-117.93
+1667373,Volkswagen Westfalia Classic,1979,46,135.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1667826,Volkswagen Pop Top Camper Van,1978,47,189.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1667840,Volkswagen Pop Top Camper Van,1979,46,135.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1667856,Volkswagen Pop Top Camper Bus,1977,48,135.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1667862,Volkswagen Westfalia Tin Top T2,1979,46,135.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1667866,Volkswagen Westfalia Camper Van T3,1983,42,135.0,1,0,0,True,4,14.5,0.0,Costa Mesa,CA,33.64,-117.93
+1179866,Roadtrek Adventurous RS,2014,11,224.0,2,1,1,False,3,23.0,0.0,Huntington Beach,CA,33.66,-118.0
+1570755,Thor Motor Coach Sequence 20A,2022,3,325.0,3,1,1,True,4,21.0,100.0,San Clemente,CA,33.44,-117.6
+1575421,Mercedes-Benz Sprinter 2500,2016,9,140.0,1,0,1,False,3,24.0,0.0,Costa Mesa,CA,33.67,-117.88
+1640056,Merzedes Sprinter Merzedes Sprinter Sprinter,2014,11,222.0,1,0,1,False,5,10.0,0.0,Aliso Viejo,CA,33.6,-117.74
+1702325,Toyota Toyota 4Runner Pro W/Rooftop Tent,2018,7,150.0,0,0,0,False,3,16.0,0.0,Laguna Hills,CA,33.61,-117.7
+1713870,Coachmen RV Galleria 24T,2018,7,233.0,2,1,1,False,2,24.0,0.0,Laguna Niguel,CA,33.56,-117.68
+1754243,Coachmen RV Beyond 22C,2020,5,242.0,3,1,1,True,2,22.0,0.0,Costa Mesa,CA,33.67,-117.93
+1646815,Volkswagen Euro Van,2000,25,150.0,0,0,0,False,2,15.7,0.0,Fountain Valley,CA,33.71,-117.96
+1515254,Chevy Chevy Express,2012,13,199.0,3,1,1,True,5,18.0,80.0,Laguna Beach,CA,33.53,-117.78
+1748117,Winnebago Travato 59K,2018,7,225.0,2,0,1,True,2,21.0,0.0,Huntington Beach,CA,33.67,-118.0
+1748425,Winnebago Adventurer 27N,2002,23,125.0,2,0,1,True,2,20.0,0.0,Laguna Niguel,CA,33.56,-117.71
+1150838,Pleasure-Way Ford Traverse Ford Traverse,2011,14,214.0,2,1,1,False,4,18.0,0.0,Huntington Beach,CA,33.67,-117.96
+1237638,Roadtrek Agile SS,2017,8,199.0,1,0,1,False,2,19.0,0.0,Irvine,CA,33.67,-117.82
+1754989,Mercedes Sprinter Van 170 Custom Ultra High End Camper Van,2021,4,233.0,2,1,1,False,2,22.0,0.0,Huntington Beach,CA,33.67,-118.01
+1756572,mercedes benz sprinter,2022,3,250.0,1,0,0,True,2,12.0,0.0,Lake Forest,CA,33.64,-117.71
+1630627,Dodge Ram Promaster 2500,2019,6,164.0,1,0,0,True,3,20.0,100.0,Irvine,CA,33.72,-117.77
+1531049,Winnebago Solis 59P,2021,4,229.0,1,1,0,False,4,19.0,90.0,Irvine,CA,33.66,-117.73
+1511454,Winnebago Solis 59P,2021,4,229.0,0,0,0,False,4,19.0,100.0,Santa Ana,CA,33.75,-117.86
+1714857,Outside Van Approach Std. Model,1994,31,110.0,2,0,1,True,3,19.0,0.0,Irvine,CA,33.69,-117.78
+1721905,Midwest Automotive Designs Passage MD4 Lounge 170 EXT,2023,2,185.0,2,0,1,True,2,24.0,100.0,La Quinta,CA,33.69,-116.27
+1690329,Motor coach THOR 12J,2022,3,216.0,2,1,1,False,4,17.0,98.571,Palm Springs,CA,33.8,-116.54
+1484330,Thor Motor Coach Tellaro 20LT,2020,5,240.0,1,0,1,False,2,21.0,0.0,Rancho Mirage,CA,33.78,-116.44
+1712593,Storyteller Overland Storyteller Overland Beast MODE AWD,2024,1,399.0,2,1,1,False,3,20.0,0.0,Palm Springs,CA,33.84,-116.49
+1694037,Ford Van E350,2003,22,135.0,0,0,0,False,2,20.0,100.0,Twentynine Palms,CA,34.14,-116.08
+1714209,Pro Master RAM 2500,2020,5,199.0,1,1,0,False,2,19.6,0.0,Idyllwild-Pine Cove,CA,33.75,-116.72
+1644202,Coachmen RV Nova 20C,2021,4,180.0,1,0,1,False,2,21.0,100.0,Lakeside,CA,32.87,-116.93
+1639109,Roadtrek Roadtrek Zion,2022,3,180.0,2,1,1,False,2,21.0,100.0,Lakeside,CA,32.87,-116.93
+1746372,nissan NV2500 NV2500,2015,10,199.0,2,0,1,True,2,20.0,0.0,San Diego,CA,32.99,-117.07
+1736403,Thor Motor Coach Tellaro 20A,2022,3,135.0,2,1,1,False,2,21.0,100.0,El Cajon,CA,32.79,-116.83
+1661833,Winnebago Solis 59PX,2023,2,199.0,3,1,1,True,4,20.0,100.0,San Diego,CA,32.81,-117.07
+1674492,Thor Motor Coach Tellaro 20L,2023,2,212.0,1,1,0,False,2,21.0,0.0,Escondido,CA,33.13,-117.04
+1450617,Ford Ford Transit Camper Van,2019,6,225.0,1,0,1,False,2,22.0,0.0,Poway,CA,32.94,-117.03
+1612076,Winnebago Solis 59P,2022,3,216.0,3,1,1,True,4,20.0,100.0,Carlsbad,CA,33.08,-117.23
+1618348,Winnebago Revel 44E,2019,6,197.0,2,1,0,True,3,19.0,100.0,Encinitas,CA,33.04,-117.25
+1708971,Mercedes Benz Mercedes Sprinter 3500XD,2023,2,212.0,0,0,0,False,3,14.1,60.0,El Cajon,CA,32.81,-116.98
+1735109,Airstream RV Interstate 24GL Std. Model,2021,4,236.0,2,1,1,False,2,24.0,100.0,El Cajon,CA,32.74,-116.93
+1584171,Thor Motor Coach RIZE 18T,2022,3,216.0,2,1,1,False,4,17.11,97.5,Carlsbad,CA,33.08,-117.23
+1730723,Thor Motor Coach Dazzle 2AB,2024,1,149.0,3,1,1,True,2,21.0,100.0,San Diego,CA,32.79,-117.25
+1510617,Winnebago Solis 59P,2021,4,189.0,1,1,0,False,4,19.0,93.333,San Diego,CA,32.97,-117.12
+1701605,Ford Transit 250,2019,6,164.0,1,0,1,False,2,19.0,100.0,Carlsbad,CA,33.15,-117.35
+1739659,Cruiser MPG 2250RB,2016,9,203.0,1,0,0,True,2,21.0,0.0,San Diego,CA,32.73,-117.22
+1731759,Thor Motor Coach Rize 18G,2023,2,150.0,2,0,1,True,2,18.0,0.0,Oceanside,CA,33.21,-117.28
+1674659,Mercedes Sprinter Adventure Van,2021,4,240.0,1,0,1,False,4,23.0,0.0,La Mesa,CA,32.76,-117.01
+1583470,Ford Transit 250,2019,6,165.0,1,0,1,False,2,18.0,100.0,Oceanside,CA,33.2,-117.38
+1700379,Winnebago Solis 59PX,2023,2,199.0,2,1,1,False,4,21.0,100.0,Temecula,CA,33.55,-117.09
+1666344,Mercedes Sprinter 2500,2020,5,99.0,2,1,1,False,2,20.0,60.0,San Diego,CA,32.83,-117.14
+1679886,RAM Ram Promaster,2018,7,195.0,0,0,0,False,2,18.0,0.0,San Diego,CA,32.76,-117.09
+1533313,Airstream RV Interstate Interstate Lounge Wardrobe,2014,11,235.0,2,1,1,False,3,24.0,100.0,San Diego,CA,32.94,-117.22
+1668109,Thor Motor Coach Tellaro 20AT,2023,2,207.0,1,1,0,False,4,21.0,100.0,Carlsbad,CA,33.1,-117.31
+1273061,Winnebago Era 170X,2010,15,189.0,1,0,1,False,2,24.0,91.429,Aguanga,CA,33.44,-116.86
+1732106,Dodge Sprinter 2500 2500,2007,18,112.0,2,0,1,True,3,19.0,0.0,Encinitas,CA,33.06,-117.29
+1758500,Winnebago Travato 59G,2023,2,205.0,1,0,1,False,3,21.0,0.0,Fallbrook,CA,33.33,-117.15
+1739957,Ram promaster 1500 HIGH ROOF,2020,5,150.0,0,0,0,False,2,18.0,0.0,San Diego,CA,32.8,-117.23
+1162826,Roadtrek  190,2013,12,224.0,2,0,1,True,4,20.0,0.0,San Diego,CA,32.72,-117.16
+1636533,Thor Motor Coach Delano Sprinter 24TT,2022,3,198.0,2,1,1,False,6,20.0,60.0,Oceanside,CA,33.18,-117.37
+1673082,Mercedes Benz Sprinter 2500,2021,4,180.0,1,1,0,False,3,22.0,0.0,Oceanside,CA,33.2,-117.28
+1733648,Leisure Travel Free Spirit Free Spirit,2004,21,99.0,2,1,1,False,3,22.0,0.0,San Diego,CA,32.88,-117.21
+1753282,Winnebago Solis Pocket 36A,2022,3,175.0,1,0,1,False,3,17.0,0.0,San Diego,CA,32.79,-117.25
+1683683,Dodge RAM Dodge RAM Promaster 2500 135'WB,2018,7,206.0,1,0,1,False,2,17.0,0.0,San Diego,CA,32.75,-117.25
+1716576,Thor Motor Coach Sanctuary 19L,2022,3,195.0,1,0,1,False,2,19.0,0.0,Oceanside,CA,33.18,-117.37
+1474422,Winnebago Solis 59P,2020,5,179.0,1,1,0,False,4,19.9,75.0,San Diego,CA,32.92,-117.22
+1654752,Unknown Transit Custom SOCALCUSTOMVANS003,2019,6,300.0,3,1,1,True,3,23.0,0.0,Oceanside,CA,33.17,-117.36
+1465153,Winnebago Era 170,2017,8,252.0,1,0,1,False,3,24.0,100.0,Temecula,CA,33.48,-117.07
+1259299,Airstream RV Interstate Interstate Lounge,2013,12,185.0,2,1,1,False,2,23.8,20.0,Temecula,CA,33.48,-117.09
+1734739,Thor Motor Coach Tellaro 20A,2025,0,218.0,2,1,1,False,2,21.0,0.0,San Diego,CA,32.88,-117.18
+1598058,Mercedes Benz Sprinter 2500 2500,2020,5,237.0,0,0,0,False,2,22.0,0.0,Temecula,CA,33.48,-117.11
+1450606,Winnebago Era 70A,2018,7,290.0,1,0,1,False,4,24.0,85.714,Imperial Beach,CA,32.58,-117.13
+1567393,Winnebago Solis 36A,2022,3,155.0,2,1,0,True,3,18.0,100.0,Boulevard,CA,32.66,-116.3
+1441638,Winnebago Solis 59P,2020,5,189.0,1,1,0,False,6,19.9,93.333,Carlsbad,CA,33.09,-117.27
+1755287,Thor Motor Coach Gemini AWD 24KB,2025,0,205.0,2,1,1,False,4,26.0,0.0,Temecula,CA,33.53,-117.11
+1681160,Winnebago Solis 59PX,2023,2,250.0,3,1,1,True,4,21.0,100.0,Santa Maria,CA,34.87,-120.45
+1703651,Coachmen RV Galleria 24FL,2018,7,203.0,2,0,1,True,4,24.0,0.0,Paso Robles,CA,35.61,-120.72
+1608435,Ford transit van 350,2018,7,235.0,0,0,0,False,4,20.0,0.0,Cayucos,CA,35.45,-120.9
+1638810,Coachmen RV Galleria 24Q,2021,4,265.0,1,0,1,False,2,24.0,100.0,Menlo Park,CA,37.43,-122.19
+1599861,Ford Ford E250 Econoline,2011,14,150.0,0,0,0,False,2,18.0,0.0,Sunnyvale,CA,37.36,-122.01
+1668574,Winnebago Solis Pocket 59 PX,2022,3,207.0,1,1,0,False,4,21.0,0.0,Santa Clara,CA,37.32,-122.0
+1757240,Winnebago Solis 59PX,2023,2,219.0,1,0,1,False,4,21.0,0.0,San Jose,CA,37.31,-121.89
+1752792,ParkLand Vans Mercedes Benz Sprinter 2500,2020,5,219.0,1,1,0,False,3,23.0,0.0,San Jose,CA,37.28,-121.89
+1658313,Winnebago Era 70X,2014,11,200.0,1,0,1,False,2,24.0,0.0,Scotts Valley,CA,37.1,-121.97
+1692737,Winnebago Solis 59PX,2023,2,216.0,2,1,1,False,4,21.0,100.0,Felton,CA,37.04,-122.07
+1728463,Storyteller Overland Storyteller Overland Beast MODE AWD,2023,2,215.0,1,1,0,False,3,21.0,100.0,Santa Barbara,CA,34.47,-119.78
+1758597,Regency RV Ultra Brougham UB25TB,2020,5,199.0,2,1,1,False,4,25.0,0.0,Santa Barbara,CA,34.41,-119.76
+1164578,Airstream RV Interstate Lounge EXT Lounge EXT,2016,9,249.0,2,1,1,False,2,24.0,100.0,Solvang,CA,34.6,-120.13
+1646159,Winnebago Revel 44E,2022,3,237.0,3,1,1,True,2,19.5,100.0,Ojai,CA,34.43,-119.28
+1668912,"Mercedes Sprinter 144WB, High Roof, 2500",2016,9,189.0,2,1,0,True,2,19.0,0.0,Ojai,CA,34.45,-119.24
+1589832,Winnebago Boldt 70 KL,2020,5,206.0,3,1,1,True,2,22.0,100.0,Ojai,CA,34.45,-119.23
+1744524,ford Ford Transit,2022,3,155.0,1,1,0,False,3,22.0,0.0,San Jose,CA,37.31,-121.78
+1497854,Winnebago Era 70A,2013,12,242.0,2,1,1,False,3,24.0,100.0,San Jose,CA,37.23,-121.78
+1715002,Thor Motor Coach Sanctuary 19L,2021,4,237.0,2,1,1,False,2,19.0,0.0,San Jose,CA,37.22,-121.76
+1668928,Roadtrek Zion Slumber,2023,2,215.0,2,1,1,False,5,21.0,100.0,San Jose,CA,37.26,-121.9
+1714861,Winnebago Revel 44E,2022,3,209.0,1,0,1,False,2,19.0,0.0,Soquel,CA,37.01,-121.93
+1748409,Entegra Coach Ethos 20D,2024,1,289.0,2,1,1,False,4,22.0,0.0,San Jose,CA,37.33,-121.81
+1131576,Winnebago Travato 59G,2017,8,275.0,3,1,1,True,3,21.0,100.0,Aptos,CA,36.96,-121.88
+1625517,Mercedes Sprinter 2800,2018,7,249.0,2,1,1,False,2,19.0,0.0,Capitola,CA,36.98,-121.95
+1732922,Winnebago Era 170XL,2010,15,150.0,2,1,1,False,3,24.0,0.0,Soquel,CA,36.99,-121.94
+1725110,Winnebago Solis 59PX,2023,2,212.0,2,1,1,False,4,21.0,100.0,Redding,CA,40.53,-122.39
+1605540,Winnebago Solis 59P,2022,3,265.0,2,1,0,True,4,19.9,100.0,Reno,NV,39.52,-119.86
+1628452,Thor Motor Coach Gemini 23TW,2023,2,180.0,2,1,1,False,4,23.0,100.0,Reno,NV,39.53,-119.88
+1608971,Road Trek Zion SRT Ram Pro Master 3500,2018,7,240.0,2,1,1,False,2,19.0,100.0,Oxnard,CA,34.19,-119.24
+1537917,Mercedes Sprinter 2500,2008,17,195.0,1,1,0,False,2,23.0,93.333,Thousand Oaks,CA,34.17,-118.96
+1664436,MERCEDES MERCEDES SPRINTER 4X4 170,2016,9,179.0,1,0,1,False,5,18.0,0.0,Thousand Oaks,CA,34.21,-118.86
+1667376,Ram Pro master 2500,2020,5,210.0,1,1,0,False,2,19.5,0.0,Oxnard,CA,34.2,-119.18
+1736958,Roadtrek Roadtrek Zion SRT,2023,2,200.0,2,1,1,False,2,19.7,0.0,Thousand Oaks,CA,34.24,-118.85
+1685010,Airstream RV Interstate Nineteen Std. Model,2021,4,350.0,3,1,1,True,2,19.0,0.0,Malibu,CA,34.03,-118.77
+1757209,Thor Motor Coach Dazzle 2AB,2024,1,244.0,3,1,1,True,4,21.0,0.0,Santa Clarita,CA,34.46,-118.54
+1613679,"Mercedes-Benz Sprinter Camper Van 2500, 170",2021,4,258.0,1,1,0,False,2,22.0,100.0,Denver,CO,39.7,-104.87
+1634881,Mercedes Sprinter Vancraft,2022,3,225.0,2,1,0,True,2,19.0,100.0,Thornton,CO,39.93,-104.95
+1746063,Winnebago Travato 59G,2023,2,236.0,3,1,1,True,3,21.0,100.0,Westminster,CO,39.88,-105.1
+1688001,Hymer Carado Axion,2017,8,187.0,2,1,1,False,2,17.0,97.778,Denver,CO,39.67,-104.94
+1663830,Winnebago Solis 59P,2023,2,229.0,1,1,0,False,4,20.0,100.0,Westminster,CO,39.83,-105.05
+1755176,Winnebago Revel 44N,2025,0,271.0,2,1,1,False,3,19.5,0.0,Denver,CO,39.72,-104.98
+1701715,Mercedes Sprintervan Custom Build,2022,3,190.0,2,1,1,False,4,23.0,100.0,Aurora,CO,39.76,-104.71
+1657125,Ram Promaster Wayfarer Walter Camper Van,2022,3,190.0,2,0,1,True,2,18.0,100.0,Denver,CO,39.76,-104.98
+1446505,Mercedes Sprinter 4x4,2019,6,182.0,0,0,0,False,4,12.0,97.6,Denver,CO,39.68,-104.97
+1758708,Pleasure-Way REKON Std. Model,2022,3,186.0,1,0,1,False,2,19.0,0.0,Denver,CO,39.72,-104.98
+1647312,Ram Promaster Wayfarer Walter,2019,6,180.0,1,0,1,False,2,18.0,100.0,Denver,CO,39.76,-104.98
+1742273,Custom Dodge Ram LV7.1 LV7.1,2023,2,175.0,2,0,1,True,2,22.0,0.0,Aurora,CO,39.76,-104.71
+1198268,Ram Promaster 1500 Wayfarer,2019,6,170.0,1,0,1,False,2,18.0,100.0,Denver,CO,39.76,-104.98
+1638203,Thor Motor Coach Sanctuary 19L,2023,2,250.0,0,0,0,False,3,19.8,100.0,Erie,CO,40.03,-105.06
+1742111,Mercedes Sprinter 2500,2024,1,200.0,2,1,1,False,4,20.0,0.0,Commerce City,CO,39.89,-104.78
+1277043,Nissan 2500 HD Cargo Van NV 2500 HD,2012,13,169.0,0,0,0,False,2,20.0,100.0,Westminster,CO,39.94,-105.0
+1622441,Regency RV National Traveler Tour TVL,2020,5,285.0,2,1,1,False,2,20.11,100.0,Castle Rock,CO,39.4,-104.89
+1578802,Antero Antero Longs Peak Plus,2021,4,200.0,2,1,1,False,2,19.0,100.0,Broomfield,CO,40.0,-105.03
+1566124,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Thornton,CO,39.87,-104.97
+1566117,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566136,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566139,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566141,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566152,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566155,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566159,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566162,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566166,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566167,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1566289,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Dacono,CO,40.08,-104.94
+1652967,Thor Motor Coach Tellaro 20A,2023,2,274.0,1,0,1,False,4,21.0,100.0,Denver,CO,39.72,-105.04
+1444698,Mercedes Mercedes Sprinter,2011,14,199.0,1,1,0,False,2,19.0,100.0,Wheat Ridge,CO,39.78,-105.07
+1592892,Ford Transit AWD,2021,4,249.0,1,0,1,False,4,20.0,100.0,Wheat Ridge,CO,39.77,-105.07
+1713941,Winnebago Solis 59PX,2021,4,228.0,2,1,1,False,4,21.0,100.0,Lakewood,CO,39.66,-105.09
+1696763,Winnebago Revel 44E,2019,6,225.0,2,1,1,False,4,19.0,100.0,Golden,CO,39.78,-105.23
+1648654,Mercedes Benz Sprinter 3500,2015,10,222.0,1,0,1,False,2,22.0,0.0,Denver,CO,39.76,-104.92
+1497713,Thor Mercedes Benz Sanctuary 19p,2025,0,375.0,1,0,1,False,3,19.0,100.0,Golden,CO,39.71,-105.15
+1055402,Winnebago View Profile 24G,2000,25,175.0,2,0,1,True,4,22.0,0.0,Lafayette,CO,39.98,-105.09
+1713968,Thor Motor Coach Tranquility 19P,2023,2,239.0,0,0,0,False,2,19.0,100.0,Littleton,CO,39.59,-105.02
+1566110,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Arvada,CO,39.8,-105.09
+1707938,Coachmen RV Galleria 24Q,2019,6,300.0,2,1,1,False,2,24.0,0.0,Elizabeth,CO,39.34,-104.63
+1025067,Winnebago Travato 59K,2018,7,259.0,1,0,1,False,2,21.0,100.0,Littleton,CO,39.57,-105.12
+1608930,Mercedes Sprinter 2500,2013,12,200.0,2,1,1,False,2,20.0,100.0,Golden,CO,39.74,-105.19
+1714773,Winnebago Era 70X,2014,11,225.0,2,1,1,False,2,24.0,0.0,Indian Hills,CO,39.61,-105.24
+1566128,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Lakewood,CO,39.68,-105.14
+1012508,Unknown Volkswagen Eurovan,2002,23,185.0,0,0,0,False,4,16.0,100.0,Durango,CO,37.29,-107.86
+1018734,Roadtrek Adventurous CS,2016,9,250.0,1,1,0,False,3,23.0,0.0,Boulder,CO,40.02,-105.27
+1599031,Winnebago Revel 44E,2022,3,325.0,1,1,0,False,4,19.0,0.0,Longmont,CO,40.19,-105.1
+1547762,Dodge Ram Promaster City,2020,5,253.0,1,0,1,False,2,15.0,0.0,Longmont,CO,40.1,-105.07
+1660229,Mercedes Sprinter 2500,2021,4,222.0,1,1,0,False,2,19.0,100.0,Fort Collins,CO,40.52,-105.12
+1736129,Storyteller Overland Storyteller Overland MODE LT,2023,2,250.0,1,1,0,False,3,19.0,100.0,Evergreen,CO,39.63,-105.33
+1700327,Hymer Carado Axion,2017,8,194.0,2,1,1,False,2,18.0,100.0,Timnath,CO,40.52,-104.98
+1625402,Mercedes-Benz Mercedes-Benz 2500 170,2021,4,218.0,2,1,0,True,2,24.0,100.0,Johnstown,CO,40.4,-104.99
+1742021,NoKhu Mercedes-Benz Sprinter,2021,4,210.0,1,1,0,False,2,19.5,0.0,Fort Collins,CO,40.57,-105.13
+1537393,Leisure Travel Freedom II Serenity Serenity Floorplan,2007,18,295.0,1,0,1,False,4,24.0,100.0,Berthoud,CO,40.27,-105.05
+1757793,Custom Build Ram Promaster,2019,6,175.0,0,0,0,False,2,18.0,0.0,Fort Collins,CO,40.54,-105.09
+1524239,Winnebago Solis 59P,2021,4,300.0,1,1,0,False,4,20.0,100.0,Snowmass Village,CO,39.23,-106.92
+1214435,Forest River RV Sunseeker MBS 2400S,2015,10,219.0,1,0,1,False,6,24.0,100.0,Bailey,CO,39.51,-105.52
+1745258,Dodge Sprinter 2500,2017,8,183.0,2,0,1,True,3,19.0,0.0,Silt,CO,39.57,-107.68
+1729144,Mercedes Sprinter 2500,2013,12,189.0,0,0,0,False,4,20.0,100.0,Colorado Springs,CO,38.81,-104.85
+1587558,Unknown RAM Promaster Promaster,2019,6,222.0,1,1,0,False,2,20.0,95.0,Colorado Springs,CO,38.85,-104.82
+1519544,Thor Motor Coach Compass 23TW,2021,4,299.0,2,1,1,False,3,23.0,100.0,Colorado Springs,CO,38.92,-104.85
+1684029,Dodge RAM Promaster 1500,2023,2,295.0,0,0,0,False,2,19.0,0.0,Colorado Springs,CO,38.86,-104.88
+1635440,Dodge Promaster 2500 159WB,2017,8,205.0,1,1,0,False,4,20.0,100.0,Colorado Springs,CO,39.04,-104.84
+1748488,Thor Motor Coach Dazzle 2LB,2024,1,242.0,3,1,1,True,2,22.0,0.0,Colorado Springs,CO,38.74,-104.65
+1739905,Dave and Matt Vans Ram Promaster LV7,2022,3,188.0,1,0,0,True,4,20.0,100.0,Gypsum,CO,39.64,-106.9
+1671317,Leisure Travel Serenity 24CB,2021,4,299.99,0,0,0,False,3,19.0,0.0,Glenwood Springs,CO,39.55,-107.34
+1672867,GEOTREK Mercedes Sprinter,2011,14,150.0,1,0,0,True,2,19.0,100.0,New Castle,CO,39.58,-107.52
+1584737,Winnebago Revel 44E,2022,3,295.0,2,1,0,True,2,19.0,0.0,Steamboat Springs,CO,40.45,-106.82
+1587717,Unknown Big Bite 8X12 V-Front,2019,6,199.0,2,1,1,False,2,24.0,0.0,Windsor,CT,41.88,-72.72
+1088770,Winnebago Era 70X,2017,8,285.0,2,1,1,False,2,24.0,94.737,Vernon,CT,41.82,-72.48
+1748529,Airstream RV Interstate Grand Tour EXT Grand Tour EXT Twin,2016,9,225.0,0,0,0,False,2,24.0,100.0,Preston,CT,41.5,-71.97
+1551469,Gulf Stream RV BT Cruiser 5255,2019,6,197.0,2,1,1,False,4,28.0,97.143,West Hartford,CT,41.79,-72.77
+1717847,Pleasure-Way Plateau TS,2013,12,199.0,1,1,0,False,2,22.0,100.0,Preston,CT,41.5,-71.96
+1128192,Airstream RV Interstate Nineteen Std. Model,2005,20,220.0,2,1,1,False,4,18.5,93.333,Prospect,CT,41.51,-72.99
+1681524,Dodge Sprinter Van,2006,19,190.0,1,1,0,False,2,19.0,100.0,New Haven,CT,41.32,-72.91
+1130365,Airstream RV Sprinter Westfalia Sprinter Westfalia,2005,20,220.0,0,0,0,False,4,18.0,100.0,Prospect,CT,41.51,-72.99
+1751102,Dodge Sprinter Van,2008,17,225.0,0,0,0,False,2,19.0,0.0,Fairfield,CT,41.13,-73.24
+1694061,Airstream RV Interstate Grand Tour EXT Grand Tour EXT,2015,10,269.0,2,1,1,False,2,24.0,100.0,Greenwich,CT,41.03,-73.63
+1541733,Leisure Travel Wonder 24MBL,2024,1,413.0,2,1,1,False,4,24.0,0.0,Port Washington,NY,40.83,-73.69
+1564013,Ford E-350 Campulance,1994,31,110.0,0,0,0,False,2,22.0,96.0,Queens,NY,40.78,-73.9
+1668029,Thor Motor Coach Scope 18M,2023,2,180.0,2,1,1,False,3,18.0,100.0,Little Ferry,NJ,40.84,-74.04
+1617910,Thor Motor Coach Sequence 20A,2022,3,300.0,1,1,0,False,3,21.0,0.0,East Hampton,NY,41.0,-72.19
+1661935,Ram Promaster 3500,2021,4,195.0,1,1,0,False,2,19.0,100.0,Northbridge,MA,42.13,-71.68
+1720250,Winnebago Solis 59PX,2024,1,339.0,2,1,1,False,4,21.0,100.0,Shrewsbury,MA,42.28,-71.68
+1633526,Thor Motor Coach Rize 18M,2022,3,222.0,2,1,1,False,2,18.0,93.333,Marlborough,MA,42.35,-71.55
+1607688,Winnebago Era 70X,2019,6,295.0,2,1,1,False,2,24.0,0.0,Northborough,MA,42.34,-71.63
+1553876,Quigley 4x4 Ford E350,2003,22,179.0,3,1,1,True,2,18.0,0.0,Warren,RI,41.74,-71.27
+1692655,Winnebago Solis 59PX,2021,4,197.0,3,1,1,True,4,24.0,90.0,Modena,NY,41.65,-74.11
+1610967,Dodge RAM Promaster 1500,2017,8,189.0,0,0,0,False,2,18.0,100.0,High Falls,NY,41.82,-74.15
+1728860,Thor Motor Coach Rize 18A,2023,2,225.0,2,1,1,False,3,17.0,0.0,Hoboken,NJ,40.74,-74.04
+1710745,Winnebago Solis 59P,2022,3,345.0,2,1,1,False,4,19.0,100.0,Hoboken,NJ,40.74,-74.03
+1546909,Winnebago Travato 59K,2021,4,279.0,1,0,1,False,3,21.0,96.0,Brooklyn,NY,40.7,-73.97
+1633213,Thor Motor Coach Sequence 20A,2022,3,249.0,3,1,1,True,4,21.0,99.259,Smyrna,DE,39.27,-75.59
+1009201,Forest River RV Lexington 235S,2007,18,150.0,2,1,1,False,4,24.0,73.333,North Cape May,NJ,38.98,-74.94
+1635062,Dodge Ram Promaster 2500,2019,6,170.0,1,1,0,False,2,20.0,94.286,Rehoboth Beach,DE,38.74,-75.14
+1207204,Airstream RV Interstate Extended Lounge,2012,13,187.0,2,1,1,False,2,24.0,92.308,Cecil County,MD,39.56,-76.0
+1716677,Thor Motor Coach Tellaro 20LT,2021,4,220.5,3,1,1,True,2,20.0,100.0,Phoenixville,PA,40.13,-75.46
+1678142,Coach House Platinum 232XL FS,2015,10,200.0,3,1,1,True,4,24.0,100.0,Brooklawn,NJ,39.88,-75.11
+1714814,Dodge Ram Promaster,2016,9,222.0,2,0,1,True,2,17.0,100.0,Pottstown,PA,40.27,-75.66
+1600570,Nissan Nissan Xterra,2012,13,125.0,1,0,0,True,2,14.0,100.0,Philadelphia,PA,39.93,-75.16
+1723464,Midwest Automotive Designs Daycruiser D6,2018,7,395.0,1,0,1,False,2,24.0,100.0,West Deptford,NJ,39.83,-75.18
+1701813,Airstream RV Interstate Lounge EXT Lounge EXT,2016,9,298.0,2,1,1,False,2,24.0,0.0,Exton,PA,40.06,-75.64
+1625185,Ultimate Toys Ultimate Toys Ultimate CamperVan,2023,2,299.0,1,1,0,False,2,20.0,88.0,Broomall,PA,39.99,-75.37
+1752164,Entegra Coach ARC 18C,2024,1,295.0,2,1,1,False,2,18.0,0.0,Exton,PA,40.06,-75.64
+1531004,Alpine Vans Mercedes Benz Sprinter 144 High Roof,2021,4,199.0,0,0,0,False,2,19.5,0.0,Conshohocken,PA,40.08,-75.3
+1620935,Volkswagen volkswagen Transporter,1976,49,350.0,1,0,1,False,4,15.0,0.0,Medford,NJ,39.93,-74.86
+1726815,Veritas Vans Sprinter Sprinter,2020,5,227.0,3,1,1,True,3,19.0,100.0,Bethesda,MD,39.03,-77.13
+1550232,Winnebago Solis 59P,2021,4,280.0,1,1,0,False,4,19.0,100.0,Temple Hills,MD,38.82,-76.93
+1551289,Regency RV National Traveler Trek SPT,2019,6,210.0,3,1,1,True,3,21.0,100.0,Herndon,VA,38.99,-77.38
+1660601,Midwest Automotive Designs Luxe Cruiser 170 Standard,2021,4,250.0,2,1,0,True,2,24.0,96.522,Herndon,VA,38.99,-77.38
+1619034,Thor Motor Coach Synergy 19P,2022,3,215.0,2,1,0,True,3,19.0,97.222,Herndon,VA,38.99,-77.38
+1655868,Winnebago Solis 59P,2023,2,195.0,1,1,0,False,4,20.0,92.0,Alexandria,VA,38.72,-77.11
+1489411,Winnebago Solis 59P,2021,4,269.0,0,0,0,False,4,19.0,100.0,Washington,DC,38.97,-77.01
+1676305,Winnebago Era 70A,2016,9,232.0,3,1,1,True,3,24.0,100.0,Severn,MD,39.15,-76.67
+1599751,Winnebago Travato 59K,2018,7,201.0,3,1,1,True,2,21.0,53.333,Fort Washington,MD,38.77,-77.01
+1745562,Dodge Ram Promaster,2019,6,150.0,2,1,0,True,2,18.0,100.0,Jessup,MD,39.15,-76.77
+1710545,Winnebago Revel 44E,2020,5,189.0,1,0,1,False,2,19.0,97.143,Manassas,VA,38.72,-77.47
+1688108,Entegra Coach Ethos Li 20AL,2023,2,215.0,2,1,0,True,2,21.0,100.0,Herndon,VA,38.99,-77.38
+1723259,Thor Motor Coach Scope 18M,2023,2,184.0,2,0,1,True,2,17.0,100.0,Warrenton,VA,38.7,-77.7
+1589246,Jayco Swift 20T,2023,2,189.0,2,0,1,True,2,20.0,100.0,Warrenton,VA,38.7,-77.7
+1659735,Airstream RV Atlas Murphy Suite,2021,4,349.0,1,0,1,False,2,24.0,0.0,Silver Spring,MD,39.13,-77.04
+1572567,MERCEDES-BENZ Sprinter Sprinter,2022,3,223.0,1,1,0,False,4,24.0,100.0,Middleburg,VA,38.98,-77.71
+1462458,Coachmen RV Beyond 22C AWD,2021,4,273.0,1,0,1,False,2,22.0,97.931,Catonsville,MD,39.27,-76.72
+1559792,Mercedes Sprinter Sportsmobile,2012,13,184.0,2,1,1,False,2,23.0,97.778,Annapolis,MD,39.05,-76.45
+1697789,Dodge Ram Promaster,2022,3,210.0,2,1,0,True,2,21.0,100.0,Columbia,MD,39.23,-76.82
+1637116,Thor Motor Coach Scope 18M,2023,2,191.0,2,1,1,False,2,18.0,100.0,Stafford,VA,38.47,-77.41
+1699977,Thor Motor Coach Sequence 20A,2023,2,225.0,2,1,1,False,4,21.0,100.0,Stafford,VA,38.47,-77.41
+1694366,Midwest Automotive Designs Signature Custom Conversion Sprinter 11 Passenger 170 EXT,2021,4,289.0,1,0,1,False,3,24.0,100.0,Haymarket,VA,38.86,-77.64
+1754608,Leisure Travel Unity U24TB,2020,5,170.0,1,0,1,False,2,14.0,0.0,Middleburg,VA,38.98,-77.71
+1667320,Winnebago Solis 59PX,2023,2,210.0,1,0,1,False,4,21.0,0.0,Chantilly,VA,38.9,-77.43
+1748056,Starcraft Ford E-450,2016,9,194.0,3,1,1,True,2,24.0,0.0,Hawthorne,FL,29.69,-82.04
+1751457,Winnebago Solis 59PX,2022,3,195.0,2,0,1,True,4,21.0,100.0,Jacksonville,FL,30.16,-81.54
+1754829,Dodge Ram Custom Conversion,2023,2,195.0,2,0,1,True,2,21.0,0.0,Jacksonville,FL,30.16,-81.54
+1756351,Thor Motor Coach Rize 18M,2023,2,195.0,3,1,1,True,2,17.0,0.0,Jacksonville,FL,30.16,-81.54
+1728630,Thor Motor Coach Sanctuary 24c,2024,1,300.0,1,1,0,False,2,24.0,100.0,Nocatee,FL,30.1,-81.47
+1735737,Entegra Coach Ethos 20A,2022,3,175.0,1,0,1,False,2,20.0,0.0,Jacksonville,FL,30.11,-81.45
+1737438,Winnebago Travato 59K,2018,7,150.0,2,1,1,False,2,21.0,100.0,Melbourne,FL,28.19,-80.69
+1599439,Gulf Stream RV BT Cruiser 5230,2019,6,172.0,2,1,1,False,3,24.5,85.0,Melbourne,FL,28.24,-80.69
+1634988,Airstream RV Tommy Bahama Interstate Lounge,2019,6,165.0,2,1,1,False,3,24.0,0.0,Merritt Island,FL,28.39,-80.7
+1575998,Midwest Automotive Designs Daycruiser S5,2023,2,375.0,1,1,0,False,2,24.0,100.0,St. Cloud,FL,28.23,-81.19
+1617912,Winnebago Era 70B,2019,6,264.0,1,0,1,False,2,24.0,100.0,Altamonte Springs,FL,28.65,-81.37
+1453991,Unknown Fish On 8X16 Hydraulic,2020,5,220.0,1,1,0,False,2,20.0,100.0,Vero Beach,FL,27.64,-80.41
+1737312,Thor Motor Coach Scope 18A-POP,2023,2,185.0,2,0,1,True,4,17.0,95.0,Plantation,FL,26.15,-80.31
+1755400,Entegra Coach Ethos 20T,2025,0,222.0,3,1,1,True,3,20.0,0.0,Miramar,FL,25.98,-80.3
+1749677,Entegra Coach Ethos 20A,2022,3,179.0,2,1,1,False,2,20.0,0.0,Sunrise,FL,26.16,-80.27
+1745078,Thor Motor Coach Dazzle 2LB,2024,1,197.0,2,1,1,False,3,21.0,0.0,Fort Lauderdale,FL,26.06,-80.2
+1713648,Roadtrek Roadtrek Pivot Slumber,2024,1,299.0,1,1,0,False,4,20.9,0.0,Dania Beach,FL,26.04,-80.14
+1737064,Tiffin Motorhomes Cahaba 19 SC,2022,3,199.0,3,1,1,True,2,19.0,100.0,Hialeah,FL,25.9,-80.31
+1738312,Airstream RV Rangeline Std. Model,2023,2,185.0,2,1,1,False,4,20.0,0.0,Oakland Park,FL,26.19,-80.13
+1645406,Mercedes-Benz Sprinter 2500,2022,3,250.0,1,0,1,False,3,18.0,0.0,Hallandale Beach,FL,25.99,-80.14
+1695643,Thor Motor Coach Rize 18M,2021,4,200.0,2,1,1,False,2,18.0,100.0,Greenacres,FL,26.61,-80.17
+1584059,Mercedez Sprinnter sprinter,2009,16,180.0,3,1,1,True,2,23.0,0.0,Hialeah,FL,25.82,-80.27
+1442676,Pleasure-Way Ascent TS,2018,7,295.0,1,0,1,False,2,19.0,0.0,Miami Springs,FL,25.83,-80.3
+1754692,Thor Motor Coach Dazzle 2LB,2024,1,329.0,3,1,1,True,2,21.0,0.0,Boynton Beach,FL,26.53,-80.07
+1687281,Winnebago Era 70X,2021,4,190.0,2,1,1,False,2,24.0,0.0,Miami,FL,25.76,-80.44
+1636752,Chevrolet Express Express camper,2008,17,80.0,1,0,1,False,2,20.0,80.0,Pompano Beach,FL,26.21,-80.09
+1701345,Airstream RV Atlas Murphy Suite,2020,5,249.0,3,1,1,True,2,24.0,100.0,West Palm Beach,FL,26.79,-80.09
+1164980,Winnebago View 24J,2012,13,150.0,1,1,0,False,2,18.0,80.0,Coral Gables,FL,25.75,-80.26
+1735496,Airstream RV Atlas Murphy Suite,2019,6,199.0,2,1,1,False,2,24.0,0.0,West Palm Beach,FL,26.79,-80.09
+1738611,Entegra Coach Launch 19Y,2024,1,230.0,1,1,0,False,2,19.6,100.0,Homestead,FL,25.5,-80.41
+1745535,Tiffin Motorhomes GH1 Std. Model,2025,0,275.0,1,1,0,False,2,20.0,0.0,West Palm Beach,FL,26.79,-80.09
+1756654,Thor Motor Coach Sanctuary 19P,2021,4,188.0,1,0,0,True,2,19.0,0.0,Princeton,FL,25.52,-80.41
+1706344,Storyteller Overland Storyteller Overland Beast MODE AWD,2023,2,299.0,1,1,0,False,4,21.0,0.0,West Palm Beach,FL,26.75,-80.05
+1735029,Entegra Coach Ethos 20T,2025,0,199.0,3,1,1,True,2,21.0,100.0,Cape Coral,FL,26.62,-81.94
+1569836,Winnebago Travato 59K,2021,4,175.0,1,0,1,False,2,21.0,100.0,Port Charlotte,FL,26.97,-82.09
+1716971,Thor Motor Coach Sequence 20L,2023,2,185.0,0,0,0,False,2,21.0,100.0,Parrish,FL,27.54,-82.39
+1743322,Thor Motor Coach Tellaro 20K,2023,2,175.0,2,1,1,False,2,21.0,0.0,Sarasota,FL,27.26,-82.51
+1704091,Thor Motor Coach Sanctuary 19P,2023,2,188.0,2,1,1,False,4,20.0,100.0,Bradenton,FL,27.47,-82.31
+1255295,airstream mercedes interstate,2015,10,224.0,3,1,1,True,6,10.0,0.0,Sarasota,FL,27.34,-82.53
+1686709,Airstream RV Interstate 24GL Std. Model,2023,2,185.0,1,0,1,False,2,24.0,0.0,Naples,FL,26.26,-81.82
+1709168,Winnebago Solis 59PX,2023,2,185.0,2,1,1,False,4,21.0,96.667,Wildwood,FL,28.88,-82.04
+1508154,Winnebago Travato 59K,2019,6,210.0,1,0,1,False,2,21.0,0.0,The Villages,FL,28.83,-81.99
+1579380,Vandelta Ford Transit,2020,5,215.0,0,0,0,False,2,22.0,0.0,Odessa,FL,28.19,-82.55
+1755009,GeoTrek GeoTrek Sprinter Van,2023,2,186.0,3,1,1,True,2,19.0,100.0,Jacksonville Beach,FL,30.27,-81.39
+1733216,Thor Motor Coach Sequence 20A,2021,4,169.0,1,0,1,False,4,20.0,100.0,Naples,FL,26.02,-81.66
+1702241,Entegra Coach Ethos 20D,2023,2,165.0,2,1,1,False,4,21.0,100.0,Naples,FL,26.0,-81.69
+1730665,Jayco Swift 20D,2024,1,199.0,2,1,1,False,4,21.0,95.0,Lithia,FL,27.86,-82.07
+1736991,Winnebago Revel 44E,2023,2,199.0,0,0,0,False,3,19.0,100.0,Lithia,FL,27.86,-82.07
+1735110,American Coach American Patriot 170 EXT MD2,2023,2,199.0,2,1,1,False,2,24.0,100.0,Lithia,FL,27.86,-82.07
+1731116,Airstream RV Atlas Murphy Suite,2024,1,245.0,2,1,0,True,3,24.9,100.0,Parrish,FL,27.57,-82.43
+1757698,Thor Motor Coach Sequence 20LS,2026,-1,185.0,2,1,1,False,3,21.0,0.0,Hillsborough County,FL,27.86,-82.07
+1571169,Thor THOR MOTOR COACH RIZE 18t,2022,3,210.0,2,1,1,False,4,18.0,100.0,Deltona,FL,28.9,-81.22
+1617486,Winnebago Travato 59G,2022,3,167.0,3,1,1,True,2,20.0,93.333,Riverview,FL,27.9,-82.35
+1744008,Entegra Coach Ethos 20A,2025,0,290.0,2,0,1,True,4,21.0,100.0,Tampa,FL,27.96,-82.43
+1684872,Winnebago Travato 59G,2023,2,190.0,3,1,1,True,2,21.0,96.364,Riverview,FL,27.9,-82.35
+1673928,Thor Sequence 20K,2023,2,175.0,3,1,1,True,2,21.0,90.0,Riverview,FL,27.9,-82.35
+1758461,Thor Motor Coach Sequence 20L,2023,2,175.0,1,0,1,False,2,21.0,0.0,Gibsonton,FL,27.83,-82.36
+1659865,Thor Motor Coach Scope 18A,2023,2,199.0,2,1,1,False,4,18.0,100.0,Tampa,FL,28.02,-82.35
+1593937,Thor Motor Coach Scope 18M,2022,3,189.0,2,1,1,False,2,18.0,92.0,Tampa,FL,28.02,-82.35
+1468120,Conversion Van Mercedes Benz Sprinter,2012,13,129.0,2,1,1,False,2,24.0,86.667,Tampa,FL,28.02,-82.35
+1725721,Thor Motor Coach Scope 18M,2022,3,190.0,2,1,1,False,2,18.0,90.0,Clearwater,FL,28.0,-82.79
+1549368,Winnebago Solis 59PX,2022,3,199.0,2,1,1,False,4,21.0,99.0,Tampa,FL,27.99,-82.45
+1657109,Winnebago Solis 59PX,2023,2,295.0,1,1,0,False,4,21.0,100.0,Dunedin,FL,28.0,-82.77
+1194870,Hymer Aktiv Std. Model,2018,7,137.0,2,1,1,False,2,19.0,0.0,St. Petersburg,FL,27.82,-82.66
+1578753,Winnebago Boldt 70 KL,2020,5,350.0,1,1,0,False,2,22.0,0.0,St. Pete Beach,FL,27.71,-82.73
+1739011,Northern Lite Northern Lite 9-6 SE,2022,3,171.0,1,1,0,False,3,24.0,0.0,Port St. Lucie,FL,27.23,-80.37
+1672083,Winnebago Boldt 70BL,2022,3,198.0,2,1,1,False,2,22.0,100.0,Davenport,FL,28.25,-81.59
+1736894,Thor Motor Coach Scope 18M,2021,4,200.0,1,0,0,True,2,17.0,0.0,Altamonte Springs,FL,28.64,-81.44
+1656139,Jayco Jayfeather Jayfeather,2007,18,60.0,1,0,1,False,3,29.0,0.0,Davenport,FL,28.26,-81.57
+1689348,Midwest Automotive Designs Passage MD2 Lounge 170 STD,2021,4,247.0,1,0,1,False,2,22.0,0.0,Flowery Branch,GA,34.2,-83.94
+1741200,Thor Motor Coach Twist 2JB,2024,1,275.0,2,1,1,False,2,21.1,0.0,Lawrenceville,GA,33.98,-83.99
+1741197,Winnebago Travato 59K,2024,1,299.0,2,1,1,False,2,21.0,0.0,Lawrenceville,GA,33.98,-83.99
+1522078,Winnebago Solis 59P,2021,4,325.0,1,1,0,False,4,19.0,100.0,Lawrenceville,GA,33.94,-84.05
+1557999,Custom Ford Transit,2017,8,199.0,0,0,0,False,6,22.0,96.667,Norcross,GA,33.98,-84.24
+1663487,Winnebago Solis Pocket 36A,2022,3,189.0,3,1,1,True,3,17.0,100.0,Marietta,GA,33.92,-84.47
+1692901,Winnebago Travato 59G,2020,5,176.0,2,1,1,False,2,21.0,100.0,Marietta,GA,33.94,-84.52
+1143191,Airstream RV Interstate Interstate Ext Lounge,2014,11,279.0,1,0,1,False,3,24.0,93.0,Atlanta,GA,33.88,-84.3
+1723456,Roadtrek Zion SRT,2019,6,195.0,2,1,1,False,2,19.7,100.0,McDonough,GA,33.51,-84.12
+1712144,Jayco Swift 20A,2022,3,229.0,1,1,0,False,4,20.0,90.0,Marietta,GA,33.92,-84.47
+1658147,Winnebago Solis Pocket 36A,2022,3,189.0,2,1,0,True,3,17.0,100.0,Marietta,GA,33.92,-84.47
+1612445,Coachmen RV Galleria 24T,2019,6,300.0,1,0,1,False,2,24.0,100.0,Holly Springs,GA,34.17,-84.45
+1514202,Ford E-250 Campervan,2014,11,125.0,0,0,0,False,2,19.0,0.0,Ball Ground,GA,34.31,-84.42
+1434235,Ford Ford E-250,2008,17,145.0,0,0,0,False,2,18.0,0.0,Ball Ground,GA,34.31,-84.42
+1597838,Mercedes Benz Sprinter Campervan Nomad,2020,5,186.0,0,0,0,False,2,20.0,80.0,Kennesaw,GA,34.05,-84.61
+1597844,Winnebago Revel 44E,2020,5,240.0,1,1,0,False,3,19.0,0.0,Kennesaw,GA,34.05,-84.61
+1657824,Live More Campervans Mercedes Sprinter,2021,4,211.0,0,0,0,False,4,22.0,0.0,Kennesaw,GA,34.05,-84.61
+1537591,Ford Transit Campervan 250 High Roof,2019,6,185.0,1,1,0,False,4,21.0,100.0,Kennesaw,GA,34.05,-84.61
+1697571,Live More Campervans Ford Transit,2019,6,210.0,2,1,1,False,2,22.0,0.0,Kennesaw,GA,34.05,-84.61
+1663361,ford ESV E250-XLT,2007,18,147.0,0,0,0,False,4,18.0,0.0,Lithia Springs,GA,33.78,-84.64
+1159034,Winnebago Travato 59GL,2019,6,240.0,2,1,1,False,4,21.0,95.789,Ridgeland,SC,32.33,-80.94
+1686863,"Dodge Ram ProMaster Ram ProMaster Sprinter Van, Luxury Van",2023,2,325.0,1,0,1,False,9,20.0,100.0,Easley,SC,34.77,-82.49
+1629425,Winnebago Solis 59PX,2023,2,223.0,2,1,1,False,4,21.0,100.0,Greenville,SC,34.83,-82.35
+1659357,Unknown TOYOTA MPVH,2019,6,130.0,1,0,1,False,3,10.0,100.0,Kailua-Kona,HI,19.64,-155.98
+1660302,Ford E350 XLT,2008,17,220.0,2,1,1,False,2,18.0,0.0,Kailua-Kona,HI,19.69,-156.01
+1576064,Fiat Ducato Ram Promaster,2017,8,225.0,0,0,0,False,2,17.75,95.0,Kailua-Kona,HI,19.72,-155.98
+1645189,Ram Promaster Promaster,2019,6,225.0,1,0,0,True,2,18.0,100.0,Kailua-Kona,HI,19.72,-155.98
+1636967,Ram Promaster Promaster,2018,7,225.0,1,0,0,True,2,18.0,70.0,Kailua-Kona,HI,19.72,-155.98
+1660250,Chrysler Ram Promaster,2019,6,225.0,1,0,1,False,2,17.75,100.0,Kailua-Kona,HI,19.72,-155.98
+1712010,Winnebago Solis 59P,2023,2,249.0,2,1,1,False,4,19.0,100.0,Kailua-Kona,HI,19.7,-156.02
+1586111,Dave & Matt Vans 2021 RAM PROMASTER 2500,2021,4,279.0,0,0,0,False,4,19.8,100.0,Kailua-Kona,HI,19.64,-155.98
+1492773,"Mercedes Metris Pop-top - ""Honoli'i""",2019,6,169.0,1,0,1,False,4,17.0,100.0,Kailua-Kona,HI,19.7,-156.02
+1078917,Hymer Aktiv Std. Model,2018,7,219.0,2,1,1,False,4,19.0,100.0,Kailua-Kona,HI,19.7,-156.02
+1712032,Ram Promaster Campervan Hawaii Custom,2017,8,219.0,2,1,1,False,2,20.0,0.0,Kailua-Kona,HI,19.7,-156.02
+1640270,westfalia Ford 2018,2020,5,179.95,1,1,0,False,2,17.5,0.0,Waianae,HI,21.45,-158.19
+1665242,Ford Motor Company Ford Transit,2019,6,229.0,1,0,1,False,2,20.0,0.0,Waialua,HI,21.57,-158.12
+1689615,Ford Econoline R Vision,2004,21,140.0,2,1,1,False,2,17.0,100.0,Kailua,HI,21.4,-157.74
+1754821,Dodge Ram B350,1994,31,99.0,2,1,0,True,2,21.0,0.0,Honolulu,HI,21.33,-157.92
+1625202,Ford Ford Econoline,2002,23,140.0,2,1,1,False,4,15.0,100.0,Kailua,HI,21.4,-157.74
+1654748,Ford Econoline Econoline,2015,10,140.0,2,1,1,False,2,20.0,92.857,Kailua,HI,21.4,-157.74
+1746404,Chevy Chevy Express G1500,1998,27,99.0,0,0,0,False,2,18.0,0.0,Honolulu,HI,21.33,-157.85
+1598086,Chevrolet chevrolet express,2014,11,155.0,1,0,0,True,2,20.0,100.0,Honolulu,HI,21.32,-157.84
+1143396,Roadtrek Agile SS,2015,10,289.0,2,1,1,False,2,20.0,60.0,Honolulu,HI,21.28,-157.83
+1681832,Ford Transit 2500,2016,9,201.0,2,1,0,True,2,19.0,0.0,Kailua,HI,21.39,-157.73
+1630970,Toyota Tacoma Prerunner,2015,10,125.0,1,0,1,False,2,18.0,100.0,Honolulu,HI,21.27,-157.82
+1492704,"Mercedes Metris Pop-top ""Pipeline""",2019,6,169.0,1,0,1,False,4,17.0,100.0,Kaneohe,HI,21.41,-157.82
+1612340,Custom Ford Transit 250,2016,9,149.0,1,0,1,False,4,16.0,100.0,Kahului,HI,20.88,-156.48
+1149104,Ford Transit Hd,2018,7,177.0,2,1,1,False,3,21.0,100.0,Kihei,HI,20.78,-156.46
+1000380,VW VW Westfalia,1990,35,169.0,1,1,0,False,4,15.0,0.0,Kahului,HI,20.89,-156.47
+1691442,Winnebago Solis Pocket,2022,3,177.0,1,1,0,False,2,17.0,0.0,Kihei,HI,20.73,-156.45
+1694736,ProMaster Dodge 2500,2021,4,214.0,0,0,0,False,2,17.0,0.0,Kihei,HI,20.73,-156.45
+1618614,Ford Ford E-150,2011,14,149.0,1,0,0,True,2,17.0,0.0,Makawao,HI,20.87,-156.34
+1667164,nuCamp RV AVIA Std. Model,2006,19,120.0,1,0,0,True,2,14.0,0.0,Maui County,HI,20.84,-156.46
+1668598,Allen Camper Manufacturing Outpost Lite 180 FB,2006,19,120.0,1,0,0,True,2,14.0,0.0,Maui County,HI,20.84,-156.46
+1712045,Ram Promaster Campervan Hawaii Custom,2017,8,219.0,2,1,1,False,2,18.0,0.0,Kahului,HI,20.89,-156.46
+1091190,Hymer Aktiv Std. Model,2018,7,219.0,2,1,1,False,4,19.0,100.0,Kahului,HI,20.89,-156.46
+1260858,"Mercedes Metris Pop-top ""Taimane""",2019,6,169.0,1,0,1,False,4,17.0,100.0,Kahului,HI,20.89,-156.46
+1661262,VW VW Westfalia,1990,35,169.0,1,0,1,False,4,15.0,0.0,Haiku-Pauwela,HI,20.87,-156.32
+1175099,VW VW Vanagon,1990,35,159.0,1,0,1,False,2,15.0,0.0,Haiku-Pauwela,HI,20.87,-156.32
+1712194,Pleasure-Way REKON Std. Model,2022,3,218.0,2,1,1,False,2,19.0,100.0,Boise,ID,43.65,-116.25
+1703603,Roadtrek Roadtrek Play,2021,4,231.0,2,0,1,True,2,20.0,97.5,Meridian,ID,43.61,-116.43
+1629361,Thor Thor Sanctuary,2023,2,273.0,1,1,0,False,2,19.0,93.333,Boise,ID,43.56,-116.28
+1622615,"Mercedes Benz Sprinter 170"" WB High Roof",2012,13,190.0,1,1,0,False,2,23.0,0.0,Meridian,ID,43.62,-116.45
+1661271,Mercedes Mercedes-Benz Sprinter 3500,2014,11,255.0,1,0,1,False,7,25.0,0.0,Boise,ID,43.63,-116.33
+1756320,SYNC Van MB Sprinter Atlas,2019,6,193.0,2,0,1,True,4,22.0,0.0,Meridian,ID,43.59,-116.35
+1171059,Winnebago Era 70X,2017,8,161.0,2,1,1,False,2,24.0,84.0,Boise,ID,43.6,-116.33
+1709123,Other Mercedes Sprinter,2016,9,220.0,1,1,0,False,2,23.0,100.0,Caldwell,ID,43.66,-116.63
+1545316,Winnebago Solis 59PX,2022,3,215.0,2,1,1,False,4,21.0,100.0,Millville,UT,41.69,-111.81
+1734847,Winnebago Solis Pocket 36B,2025,0,255.0,2,1,0,True,5,20.5,88.571,Coeur d'Alene,ID,47.68,-116.77
+1664904,Nothing Ventured Van Pro Master 2500,2022,3,180.0,2,1,0,True,2,17.0,100.0,Coeur d'Alene,ID,47.67,-116.78
+1748228,Thor Motor Coach Gemini 23TW,2021,4,245.0,2,1,1,False,4,23.5,100.0,Spokane Valley,WA,47.62,-117.23
+1750995,Thor Motor Coach Tranquility 19P,2022,3,250.0,1,0,0,True,3,19.0,0.0,Hayden,ID,47.76,-116.73
+1549309,RAM High Roof 3500,2021,4,235.0,2,0,1,True,2,21.0,100.0,Spokane Valley,WA,47.68,-117.28
+1450591,Ford Ford Transit 250 Conversion Camper Van,2018,7,250.0,1,0,1,False,2,13.5,0.0,Post Falls,ID,47.7,-116.91
+1601398,RAM High Roof 3500,2021,4,235.0,1,0,1,False,2,21.0,100.0,Spokane Valley,WA,47.68,-117.28
+1658066,Winnebago Paseo 48P,2017,8,180.0,1,0,1,False,2,22.0,84.0,Iona,ID,43.54,-111.94
+1742977,Mercedes-Benz sprinter 2500,2024,1,280.0,1,1,0,False,4,24.0,0.0,Athol,ID,48.0,-116.71
+1513460,Thor Motor Coach Tellaro 20LT,2021,4,350.0,2,1,1,False,2,20.0,100.0,West Yellowstone,MT,44.79,-111.11
+1680686,Entegra Coach Ethos Li 20TL,2023,2,286.0,1,0,1,False,2,20.0,0.0,Spokane,WA,47.64,-117.55
+1742871,Thor Motor Coach Scope 18A,2023,2,225.0,2,1,1,False,4,17.0,100.0,Waterford,WI,42.78,-88.22
+1520767,Winnebago Solis 59PX,2021,4,270.0,2,1,1,False,4,21.0,100.0,Barrington,IL,42.17,-88.16
+1710849,Thor Motor Coach Compass 23TE,2021,4,219.0,2,1,1,False,6,25.0,0.0,St. Charles,IL,41.92,-88.34
+1742053,Winnebago Solis 59PX,2022,3,295.0,2,1,1,False,4,21.0,0.0,Grayslake,IL,42.37,-88.06
+1168959,Airstream RV Interstate Lounge EXT Lounge EXT,2017,8,350.0,2,0,1,True,2,24.0,100.0,Grayslake,IL,42.35,-88.05
+1638426,Thor Motor Coach Twist 21JB,2023,2,299.0,0,0,0,False,4,21.0,0.0,Mundelein,IL,42.23,-87.99
+1697490,Regency RV Xalta Ranger 144 RL,2022,3,299.0,1,1,0,False,3,19.0,100.0,Gurnee,IL,42.39,-87.96
+1591521,Chevrolet Van Express,2012,13,125.0,0,0,0,False,2,20.0,0.0,Mukwonago,WI,42.91,-88.4
+1673103,Thor Motor Coach Rize 18M,2022,3,285.0,2,1,1,False,3,18.0,0.0,Palatine,IL,42.11,-88.05
+1646564,Thor Motor Coach Sequence 20J,2022,3,299.0,2,1,1,False,4,21.0,100.0,Gurnee,IL,42.39,-87.96
+1527149,Grech Motors Strada Lounge,2021,4,295.0,2,1,1,False,2,24.0,100.0,Moline,IL,41.48,-90.47
+1584513,Winnebago Solis 59P,2022,3,220.0,1,1,0,False,4,19.0,95.385,Saint Charles,MO,38.84,-90.49
+1705264,Winnebago Solis 59P,2021,4,250.0,1,1,0,False,4,19.0,100.0,Saint Charles,MO,38.84,-90.49
+1463065,Dodge Dodge Grand Caravan,2019,6,135.0,1,0,1,False,4,16.0,100.0,Olivette,MO,38.67,-90.36
+1685863,ford ford transit,2016,9,189.0,0,0,0,False,2,22.0,100.0,Brentwood,MO,38.62,-90.35
+1706108,RAM RAM ProMaster Custom,2014,11,169.0,0,0,0,False,2,20.0,100.0,Brentwood,MO,38.62,-90.35
+1694723,Winnebago Solis 59P,2023,2,260.0,0,0,0,False,4,20.0,100.0,Northbrook,IL,42.13,-87.84
+1712193,Thor Motor Coach Tellaro 20J,2023,2,265.0,2,1,1,False,4,21.0,100.0,Bensenville,IL,41.93,-87.96
+1717991,Ultimate Toys Ultimate RV Std. Model,2023,2,258.0,2,0,1,True,2,24.0,80.0,Darien,IL,41.77,-87.95
+1534079,Winnebago Solis 59PX,2022,3,288.0,2,1,1,False,6,21.0,100.0,Chicago,IL,41.84,-87.64
+1679339,Active Pop Top,2021,4,167.0,1,0,0,True,4,19.9,0.0,Villa Park,IL,41.9,-87.98
+1566113,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Skokie,IL,42.03,-87.71
+1566116,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Skokie,IL,42.03,-87.71
+1566125,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Skokie,IL,42.03,-87.71
+1670016,mercedez frieght liner sprinter 2500,2013,12,199.0,1,1,0,False,5,23.0,100.0,Kenosha,WI,42.6,-87.87
+1636508,Road Ranger Kit Travel Trailer,1989,36,199.0,0,0,0,False,5,28.0,0.0,Belmont,WI,42.74,-90.34
+1705680,? Mercedes Sprinter,2021,4,234.0,1,1,0,False,2,23.0,100.0,Delafield,WI,43.04,-88.42
+1704275,Winnebago Travato 59GL,2019,6,200.0,0,0,0,False,4,21.0,97.5,Fort Wayne,IN,41.15,-85.05
+1735682,Geotrek Mercedes Benz Sprinter 2500 2WD,2024,1,249.0,2,1,1,False,2,19.0,0.0,Scottsburg,IN,38.69,-85.78
+1749311,Thor Motor Coach Rize 18A,2023,2,223.0,2,0,1,True,3,19.0,100.0,Indianapolis,IN,39.87,-86.12
+1743850,Leisure Travel Serenity 24CB,2013,12,215.0,2,1,1,False,4,24.0,100.0,Fishers,IN,39.98,-86.01
+1751905,Mercedes-Benz Mercedes-Benz Sprinter 2500,2024,1,200.0,2,1,1,False,2,22.0,100.0,Kokomo,IN,40.49,-86.15
+1709701,Roadtrek Roadtrek RS-Adventurous,2010,15,204.0,2,1,1,False,2,22.0,88.0,La Grange,KY,38.39,-85.41
+1733632,Ultimate Toys Ultimate RV Std. Model,2022,3,395.0,1,1,0,False,2,24.0,0.0,Anchorage,KY,38.27,-85.54
+1691047,Mercedes-Benz Sprinter Ultimate Coach,2020,5,375.0,0,0,0,False,2,24.0,0.0,Louisville,KY,38.21,-85.55
+1690548,Mercedes-Benz Sprinter Ultimate Coach,2024,1,375.0,0,0,0,False,2,24.0,0.0,Louisville,KY,38.21,-85.55
+1669075,Winnebago Solis 59PX,2023,2,235.0,3,1,1,True,4,21.0,100.0,Florence,KY,38.95,-84.63
+1171743,Gulf Stream RV BT Cruiser 5245,2004,21,150.0,2,0,1,True,6,24.0,100.0,Cincinnati,OH,39.19,-84.54
+1266587,Midwest Automotive Designs Passage 170 STD MD2,2020,5,375.0,1,0,1,False,2,50.0,0.0,Mason,OH,39.37,-84.33
+1566338,Chevrolet Chevy 3500 Express 15 Passenger,2019,6,175.0,0,0,0,False,1,20.0,100.0,Coloma,MI,42.18,-86.3
+1738187,GMC Savana Limited SE 9 Passenger Luxury Van,2022,3,215.0,1,0,1,False,1,20.0,0.0,Coloma,MI,42.18,-86.3
+1738693,Winnebago Solis 59PX,2022,3,219.0,2,0,1,True,4,21.0,0.0,Moraine,OH,39.71,-84.21
+1757362,Grech RV Strada-ion Lounge,2023,2,325.0,2,0,1,True,2,24.0,0.0,Moraine,OH,39.71,-84.21
+1648810,Airstream RV Interstate Grand Tour EXT Grand Tour EXT,2015,10,269.0,3,1,1,True,2,24.0,0.0,Moraine,OH,39.71,-84.21
+1624211,Winnebago Solis 59P,2021,4,200.0,1,1,0,False,4,19.0,96.0,Spring Valley,OH,39.6,-84.03
+1534799,Custom Dodge Sprinter,2006,19,159.0,1,0,1,False,2,20.0,0.0,Redfield,IA,41.57,-94.27
+1732009,Entegra Coach Ethos 20T,2024,1,281.0,2,1,1,False,2,20.0,0.0,West Des Moines,IA,41.57,-93.8
+1700311,Midwest Automotive Designs Daycruiser D6,2023,2,350.0,1,0,1,False,6,20.0,95.0,Cedar Falls,IA,42.48,-92.48
+1649502,Mercedes Entegra Launch,2022,3,295.0,1,1,0,False,2,19.0,100.0,Coralville,IA,41.7,-91.64
+1703976,Sprinter Mercedes Benz 2500,2021,4,225.0,1,1,0,False,4,23.0,100.0,Omaha,NE,41.27,-95.98
+1654009,Transit ford class b,2022,3,218.0,1,0,1,False,4,19.0,0.0,Yutan,NE,41.2,-96.39
+1749493,Ford Ford E350,2002,23,93.0,2,1,1,False,2,19.0,0.0,Lawrence,KS,38.98,-95.22
+1258334,Ford Transit T350 XLT Midroof VanDOit,2019,6,350.0,0,0,0,False,5,19.0,100.0,Kansas City,KS,39.14,-94.7
+1509227,VanDOit Custom Ford Transit LIV Model,2021,4,350.0,0,0,0,False,4,21.0,100.0,Kansas City,KS,39.14,-94.7
+1607143,Vandoit Transit LIV,2019,6,212.0,1,0,1,False,4,19.0,0.0,Kansas City,KS,39.14,-94.7
+1748799,Ford Transit 350HD,2022,3,227.0,2,1,0,True,4,22.0,100.0,Kansas City,MO,38.92,-94.58
+1660916,Mercedes Midwest Automotive Designs Weekender MD4,2015,10,249.0,1,0,1,False,4,26.0,73.333,Overland Park,KS,38.96,-94.65
+1739628,Midwest Automotive Designs Weekender Sprinter Floorplan 4,2016,9,225.0,1,0,1,False,2,25.0,0.0,Overland Park,KS,38.96,-94.65
+1504977,vandoit Ford Transit T-350 LIV model,2017,8,230.0,1,0,0,True,2,20.0,100.0,Kansas City,MO,39.07,-94.58
+1749084,Great west Legend ex Ex,2013,12,189.0,2,0,1,True,2,24.0,0.0,Russell Springs,KY,37.05,-85.08
+1743022,Thor Motor Coach Sequence 20A,2022,3,290.0,2,1,1,False,4,21.0,0.0,Monroe,TN,36.5,-85.24
+1551490,Mercedes Mercedes sprinter,2019,6,295.0,0,0,0,False,2,24.0,100.0,Hendersonville,TN,36.31,-86.6
+1651853,Coachmen RV Crossfit 22C,2019,6,129.0,2,1,1,False,2,22.0,100.0,Hendersonville,TN,36.33,-86.61
+1624053,Van Craft Mercedese Sprinter 2500,2022,3,228.0,1,1,0,False,6,22.0,100.0,Nashville,TN,36.19,-86.73
+1682208,Vandoit Ford Transit 350F,2022,3,159.0,1,0,0,True,6,19.0,0.0,Lucasville,OH,38.91,-82.9
+1642171,Winnebago Solis 59PX,2023,2,317.0,2,1,1,False,4,21.0,100.0,Clarksville,TN,36.6,-87.33
+1719713,Storyteller Overland Storyteller Overland Beast MODE 4x4,2023,2,181.0,2,1,1,False,3,21.0,100.0,Nashville,TN,36.22,-86.82
+1690611,Thor Motor Coach Sequence 20L,2023,2,317.0,1,1,0,False,2,20.0,0.0,Nashville,TN,36.14,-86.83
+1708204,Unknown Mercedes Sprinter,2008,17,150.0,0,0,0,False,2,22.0,0.0,Nashville,TN,36.14,-86.86
+1739705,Midwest Automotive Designs Daycruiser D6,2024,1,280.0,1,0,1,False,2,22.0,100.0,Shreveport,LA,32.37,-93.68
+1561858,Forest River RV Sunseeker MBS 2400B,2015,10,235.0,2,1,1,False,5,24.0,0.0,New Orleans,LA,29.98,-90.09
+1621424,Thor Aerolite Cub 185,2022,3,165.0,1,0,1,False,2,19.0,93.333,Shoreline Park,MS,30.32,-89.42
+1672773,Winnebago Solis 59P,2021,4,255.0,3,1,1,True,4,19.0,100.0,Winthrop,ME,44.31,-69.96
+1686897,Ford Transit F350 AWD Moxie Van Co. Adventure Van,2022,3,242.0,1,0,0,True,3,19.0,100.0,Freeport,ME,43.84,-70.08
+1633047,Mercedes-Benz Sprinter Mercedes-Benz Sprinter 2500,2022,3,250.0,0,0,0,False,4,23.0,0.0,Cumberland,ME,43.76,-70.2
+1633859,Maine Adventure Company Dodge Promaster 3500,2021,4,309.0,0,0,0,False,3,20.0,100.0,Brunswick,ME,43.9,-69.91
+1633873,Maine Adventure Company Dodge Ram Promaster 3500,2021,4,309.0,1,0,0,True,2,20.0,0.0,Brunswick,ME,43.9,-69.91
+1558263,Roadtrek Adventurous RS,2006,19,239.0,2,1,1,False,2,21.0,100.0,Bath,ME,43.93,-69.82
+1594162,Dodge Ram Promaster 3500,2015,10,246.0,1,1,0,False,3,19.7,100.0,Scarborough,ME,43.58,-70.3
+1698060,Codove Mercedes Benz Sprinter,2011,14,169.0,2,0,1,True,4,24.0,0.0,Fairfield,ME,44.6,-69.61
+1750451,Winnebago Solis 59PX,2022,3,230.0,3,1,1,True,4,21.0,100.0,Orono,ME,44.88,-68.68
+1656758,Ram Promaster 3500 Extended,2020,5,235.0,1,1,0,False,3,21.0,100.0,Durham,NH,43.13,-70.88
+1465931,Ford Ford Econoline,1999,26,129.0,1,0,0,True,2,17.6,96.667,Hampton,NH,42.94,-70.84
+1709636,Winnebago Travato 59G,2015,10,235.0,2,1,1,False,4,21.0,100.0,Manchester,NH,43.01,-71.42
+1523244,Midwest Automotive Designs Daycruiser 144 Plan A,2018,7,275.0,0,0,0,False,2,22.0,100.0,Seabrook,NH,42.89,-70.9
+1564254,Mercedes-Benz Sprinter Passenger Van,2017,8,175.0,0,0,0,False,2,19.5,100.0,Seabrook,NH,42.89,-70.9
+1690765,Ram Pro Master 3500 EXT,2022,3,250.0,1,1,0,False,3,21.0,100.0,Sanbornton,NH,43.51,-71.52
+1537288,Coachmen RV Conversion Van Van,2001,24,99.0,0,0,0,False,2,18.0,100.0,Taneytown,MD,39.65,-77.16
+1165689,Ford Transit 350HD,2016,9,140.0,1,0,0,True,1,15.0,100.0,Charles Town,WV,39.25,-77.88
+1589876,Ford Transit 150 XLT,2015,10,125.0,1,0,0,True,4,19.0,100.0,Maidsville,WV,39.71,-80.02
+1553223,Ford Transit Van 150 XLT,2015,10,125.0,1,0,0,True,3,18.0,86.667,Maidsville,WV,39.71,-80.02
+1707735,Ford Ford Transit 150 Midroof,2016,9,175.0,2,0,1,True,3,19.0,0.0,Maidsville,WV,39.71,-80.02
+1589881,Ford Transit 150 XLT,2015,10,125.0,1,0,0,True,4,19.0,100.0,Maidsville,WV,39.71,-80.02
+1644553,Regency Ultra Brougham MB,2020,5,280.0,2,1,1,False,2,25.0,98.0,Barnstable,MA,41.65,-70.32
+1736555,Mercedes Benz Sprinter 3500 Sprinter 170,2020,5,288.0,0,0,0,False,2,23.0,0.0,Duxbury,MA,42.06,-70.72
+1744222,Mercedes benz Mercedes Sprinter 2500,2014,11,202.0,1,1,0,False,2,22.0,0.0,Wareham,MA,41.8,-70.76
+1574541,Ford E350 Super Duty Extended Super Duty Extended,2011,14,235.0,1,0,1,False,4,20.0,96.667,Waltham,MA,42.38,-71.25
+1499581,Thor Motor Coach Scope 18M,2023,2,242.0,2,1,1,False,2,17.8,68.0,Cambridge,MA,42.36,-71.11
+1712726,Mercedes Mercedes Sprinter 2500 custom,2024,1,190.0,2,1,0,True,4,24.0,97.5,Peabody,MA,42.51,-70.95
+1718567,Winnebago Solis 59P,2022,3,275.0,0,0,0,False,4,19.0,100.0,Merrimack,NH,42.87,-71.53
+1589504,Winnebago Travato 59G,2016,9,228.0,2,1,1,False,2,21.0,97.143,Manchester,VT,43.17,-73.04
+1573307,Adventure Manufacturing Chisholm Trail 293SAB,1964,61,289.0,1,0,1,False,6,44.0,0.0,Negaunee,MI,46.52,-87.61
+1716190,Thor Motor Coach Scope 18A,2023,2,225.0,1,0,1,False,4,17.0,100.0,Ellsworth,MI,45.15,-85.38
+1639620,Winnebago Solis 59P,2023,2,218.0,1,0,0,True,4,20.0,98.667,Grayling,MI,44.67,-84.69
+1476565,Merecedes Midwest Automotive MD4 Weekender,2017,8,204.0,2,1,1,False,2,24.0,96.667,Traverse City,MI,44.75,-85.72
+1749218,RAM Promaster PM2500,2019,6,200.0,3,1,1,True,2,19.0,0.0,Leslie,MI,42.42,-84.4
+1549276,Winnebago Ram Solis PX59,2021,4,255.0,2,1,1,False,4,21.0,100.0,Hessel,MI,46.03,-84.59
+1649964,Winnebago Travato 59K,2022,3,244.0,3,1,1,True,2,21.0,100.0,Howell,MI,42.62,-83.93
+1678566,Midwest Automotive Designs Passage MD4 Lounge,2019,6,244.0,1,1,0,False,4,24.0,100.0,Orion Township,MI,42.72,-83.27
+1655769,Thor Motor Coach Tellaro 20K,2022,3,245.0,2,1,1,False,2,21.0,100.0,City of the Village of Clarkston,MI,42.75,-83.39
+1168955,Thor Sequence 20A,2022,3,256.0,2,1,1,False,4,20.0,99.0,Pleasant Ridge,MI,42.47,-83.14
+1656773,Winnebago Travato 59G,2017,8,210.0,2,1,1,False,4,21.0,100.0,Rochester Hills,MI,42.64,-83.2
+1755053,Thor Motor Coach Scope 18M,2022,3,200.0,2,0,1,True,2,18.0,0.0,Auburn Hills,MI,42.68,-83.21
+1585061,Midwest Automotive Designs Weekender Sprinter Sprinter 2500,2017,8,325.0,0,0,0,False,2,14.0,93.333,Bloomfield Hills,MI,42.53,-83.3
+1516092,Coachmen RV Galleria 24Q,2018,7,298.0,1,0,1,False,2,24.0,100.0,South Lyon,MI,42.46,-83.65
+1238437,Winnebago Travato 59KL,2019,6,250.0,1,1,0,False,2,21.0,94.286,Ann Arbor,MI,42.29,-83.79
+1598073,Winnebago Revel 44E,2022,3,295.0,1,1,0,False,2,20.0,100.0,Petersburg,MI,41.85,-83.63
+1730819,Roadtrek Roadtrek Chase,2024,1,245.0,2,1,0,True,3,21.5,0.0,Warren,MI,42.45,-83.08
+1611367,Thor Motor Coach Scope 18M,2022,3,250.0,2,1,1,False,2,18.0,0.0,Detroit,MI,42.41,-82.97
+1649668,Ford Econoline High Top,1999,26,73.0,1,0,1,False,2,17.0,0.0,St. Clair Shores,MI,42.46,-82.9
+1614422,Coachmen RV Crossfit 22C,2019,6,219.0,3,1,1,True,2,22.0,100.0,Ham Lake,MN,45.29,-93.23
+1717999,Mercedes-Benz Sprinter Van,2005,20,189.0,0,0,0,False,2,21.0,0.0,Oak Grove,MN,45.34,-93.37
+1704386,Airstream RV Interstate Interstate Ext Lounge,2014,11,260.0,2,1,1,False,3,24.0,100.0,Minneapolis,MN,44.98,-93.41
+1703293,Ram Promaster City Promaster City,2020,5,179.0,1,0,1,False,2,16.0,0.0,Minneapolis,MN,44.95,-93.23
+1718003,Winnebago Era Sprinter,2012,13,295.0,0,0,0,False,4,23.0,0.0,Minneapolis,MN,44.98,-93.31
+1541372,Winnebago Era 70A,2020,5,235.0,2,1,1,False,4,24.0,0.0,Wayzata,MN,44.95,-93.58
+1756365,Thor Motor Coach Rize 18M,2022,3,203.0,2,1,1,False,2,18.0,0.0,Eden Prairie,MN,44.84,-93.44
+1749511,Entegra Coach Odyssey 26M,2024,1,250.0,2,1,1,False,6,26.0,0.0,Mayer,MN,44.89,-93.87
+1697511,Winnebago Solis 59PX,2021,4,250.0,2,1,1,False,4,21.0,100.0,Bemidji,MN,47.51,-94.83
+1620335,RAM Promaster Conversion,2017,8,225.0,1,0,1,False,2,18.0,0.0,Faribault,MN,44.32,-93.28
+1669107,Unknown RoadTrek Simplicity SRT 190,2018,7,185.0,0,0,0,False,3,19.6,100.0,Fargo,ND,46.96,-96.8
+1736041,Winnebago Era 70A,2019,6,250.0,2,1,1,False,3,24.0,0.0,Holmen,WI,44.0,-91.29
+1753797,Mercedes Benz Sprinter,2019,6,225.0,1,1,0,False,2,24.0,0.0,Columbia,MO,38.91,-92.35
+1660952,Contravans Ford Transit Connect Custom,2023,2,222.0,0,0,0,False,2,15.0,0.0,Belgrade,MT,45.79,-111.21
+1716210,Sportsmobile Custom RB 116,2021,4,315.0,2,0,1,True,2,19.0,0.0,Belgrade,MT,45.79,-111.21
+1714366,Ram Promaster 1500,2017,8,230.0,0,0,0,False,2,17.0,90.0,Bozeman,MT,45.69,-111.12
+1639781,Winnebago Revel 44E,2022,3,395.0,2,1,0,True,3,19.0,100.0,Belgrade,MT,45.78,-111.16
+1747152,Unknown RAM ProMaster,2018,7,260.0,0,0,0,False,2,20.0,0.0,Bozeman,MT,45.69,-111.12
+1748111,Roadtrek Adventurous CS,2018,7,359.0,0,0,0,False,2,22.0,100.0,Belgrade,MT,45.75,-111.2
+1568617,Mercedes Mercedes Sprinter,2022,3,269.0,1,1,0,False,2,19.0,100.0,Belgrade,MT,45.78,-111.15
+1750754,Winnebago Revel 44E,2025,0,342.0,2,1,1,False,3,19.0,100.0,Billings,MT,45.84,-108.5
+1092100,Ram Promaster Promaster 1500,2019,6,200.0,1,1,0,False,2,20.0,100.0,Sula,MT,45.88,-113.87
+1675096,Mercedes- Benz Sprinter Van 2500 4X4,2017,8,325.0,1,1,0,False,2,19.0,0.0,Whitefish,MT,48.41,-114.33
+1752384,Mission Overland Mission Overland Summit,2021,4,275.0,0,0,0,False,4,21.0,0.0,Kalispell,MT,48.13,-114.28
+1543937,Freightliner Sprinter 2500,2009,16,250.0,1,1,0,False,2,19.0,100.0,Kalispell,MT,48.19,-114.3
+1740725,Chevy Express Van Van Craft,1999,26,131.0,2,0,1,True,2,17.0,0.0,Lakeside,MT,48.0,-114.22
+1664992,Mercedes Sprinter 2500,2016,9,325.0,1,1,0,False,2,24.0,100.0,Missoula,MT,46.87,-114.05
+1747133,Ford Ford Transit Connect,2010,15,178.0,0,0,0,False,2,15.0,0.0,Missoula,MT,46.89,-113.96
+1598074,Leisure Travel Free Spirit Free Spirit,2005,20,340.0,2,1,1,False,2,22.0,100.0,Missoula,MT,46.88,-113.97
+1602434,Winnebago Solis 59P,2022,3,300.0,2,1,0,True,5,19.75,96.667,Choteau,MT,47.87,-112.24
+1627840,Winnebago Solis 59PX,2023,2,189.0,1,0,1,False,4,21.0,98.889,North Las Vegas,NV,36.27,-115.18
+1689375,Light Travelers Mercedes Sprinter,2022,3,346.0,2,1,0,True,3,19.0,94.0,Las Vegas,NV,36.15,-115.25
+1543995,Winnebago Solis 59PX,2022,3,200.0,2,1,1,False,4,21.0,98.75,Las Vegas,NV,36.14,-115.14
+1618148,Winnebago Revel 44E,2021,4,174.0,2,0,1,True,2,19.0,100.0,Las Vegas,NV,36.33,-115.29
+1701603,Unknown Ram Promaster 3500,2019,6,199.0,3,1,1,True,2,22.0,100.0,Las Vegas,NV,36.1,-115.31
+1490634,Winnebago Revel 44E,2021,4,215.0,3,1,1,True,3,19.0,95.294,Las Vegas,NV,36.14,-115.14
+1688891,Ford Ford Bronco Sport,2022,3,93.0,1,0,0,True,4,15.0,0.0,Las Vegas,NV,36.14,-115.14
+1245632,Winnebago Travato 59K,2020,5,264.0,1,0,1,False,2,21.0,96.552,Las Vegas,NV,36.15,-115.15
+1661751,Ford Ford Transit Connect,2022,3,95.0,2,1,0,True,2,15.0,100.0,Las Vegas,NV,36.14,-115.14
+1747627,Winnebago Solis 59PX,2023,2,225.0,2,1,1,False,4,21.0,100.0,Las Vegas,NV,36.15,-115.33
+1610881,Thor Motor Coach Sequence 20L,2022,3,220.0,2,1,1,False,2,21.0,98.0,Las Vegas,NV,36.05,-115.25
+1657095,Latitude Vans Ram Promaster 2500,2023,2,215.0,1,1,0,False,2,20.0,100.0,Las Vegas,NV,36.1,-115.31
+1670558,RAM Promaster City Cascade Campers,2018,7,125.0,0,0,0,False,2,16.0,100.0,Las Vegas,NV,36.07,-115.09
+1571977,Toyota Sienna XLE,2025,0,120.0,1,0,0,True,4,16.9,0.0,North Las Vegas,NV,36.24,-115.18
+1713111,Latitude Vans RAM Freedom,2022,3,215.0,2,1,0,True,2,22.0,73.333,Las Vegas,NV,36.1,-115.31
+1708794,Winnebago Revel 44E,2024,1,295.0,2,1,0,True,3,19.0,0.0,Las Vegas,NV,36.09,-115.15
+1723642,Winnebago Revel 44E,2024,1,295.0,2,1,0,True,3,19.0,100.0,Las Vegas,NV,36.09,-115.15
+1745366,RAM Custom Promaster,2023,2,215.0,1,0,0,True,2,18.0,0.0,Las Vegas,NV,36.04,-115.18
+1670538,RAM Promaster City Cascade Campers,2021,4,125.0,0,0,0,False,2,16.0,80.0,Las Vegas,NV,36.07,-115.09
+1670562,RAM Promaster City Cascade Campers,2019,6,125.0,0,0,0,False,2,16.0,100.0,Las Vegas,NV,36.07,-115.09
+1619391,Winnebago Revel 44E,2022,3,265.0,2,1,0,True,3,19.0,100.0,Las Vegas,NV,36.09,-115.15
+1745361,RAM Custom Promaster,2023,2,215.0,1,0,0,True,2,18.0,0.0,Las Vegas,NV,36.04,-115.18
+1748886,Winnebago Revel 44E,2025,0,325.0,2,1,0,True,3,19.0,0.0,Las Vegas,NV,36.09,-115.15
+1754716,Winnebago Revel 44E,2025,0,325.0,2,1,0,True,3,19.0,0.0,Las Vegas,NV,36.09,-115.15
+1755522,Winnebago Revel 44E,2025,0,325.0,2,1,0,True,3,19.0,0.0,Las Vegas,NV,36.09,-115.15
+1573960,Chevy Kuga Campervan,2013,12,60.0,1,1,0,False,3,19.0,90.0,Las Vegas,NV,36.13,-115.18
+1471460,RAM Promaster City Cascade Campers,2018,7,125.0,0,0,0,False,2,16.0,0.0,Las Vegas,NV,36.07,-115.09
+1670560,RAM Promaster City Cascade Campers,2019,6,125.0,0,0,0,False,2,16.0,0.0,Las Vegas,NV,36.07,-115.09
+1758400,Winnebago Solis 59PX,2025,0,311.0,1,0,1,False,4,21.0,0.0,Las Vegas,NV,36.13,-115.24
+1685336,Winnebago Mercedes Revel 44E,2024,1,335.0,2,1,0,True,3,19.7,100.0,Las Vegas,NV,36.1,-115.3
+1711713,Winnebago Revel Revel 44e,2024,1,335.0,1,1,0,False,3,19.7,100.0,Las Vegas,NV,36.1,-115.3
+1753898,Thor Motor Coach Scope 18M,2023,2,212.0,3,1,1,True,2,17.0,0.0,Las Vegas,NV,36.03,-115.17
+1750705,Ford Roofnest Tent Ford Tremor,2024,1,199.0,1,0,0,True,3,19.0,0.0,Las Vegas,NV,36.1,-115.3
+1566120,Dodge Ram Promaster 2500,2021,4,280.0,1,0,1,False,2,20.0,0.0,Las Vegas,NV,36.2,-115.21
+1496473,Mercedes Mercedes Sprinter 144,2019,6,165.0,0,0,0,False,2,20.0,80.0,Alexandria,NH,43.64,-71.81
+1753361,Mercedes Mercedes Sprinter,2019,6,190.0,1,0,1,False,5,24.0,0.0,Alexandria,NH,43.64,-71.81
+1705604,Renegade Villagio 25RMC,2022,3,265.0,2,0,1,True,4,25.0,100.0,Eagleswood,NJ,39.64,-74.31
+1691302,27North Inventor Ram Pro master,2023,2,193.0,2,1,0,True,3,23.0,100.0,Jersey City,NJ,40.73,-74.08
+1738604,Winnebago Adventure Wagon 70SE,2023,2,225.0,2,1,0,True,3,23.0,100.0,Middletown Township,NJ,40.41,-74.06
+1576482,Hymer Aktiv 2.0 with Loft,2019,6,214.0,2,1,1,False,4,20.9,97.647,Middletown Township,NJ,40.41,-74.06
+1616052,Mercedes Benz Sprinter,2014,11,215.0,0,0,0,False,2,22.0,0.0,Brooklyn,NY,40.67,-73.99
+1650545,Mercedes Benz Mercedes Benz Sprinter,2014,11,400.0,0,0,0,False,1,22.6,0.0,Middlesex,NJ,40.57,-74.49
+1718077,Winnebago Revel 44E,2023,2,200.0,1,1,0,False,3,19.0,100.0,Freehold,NJ,40.29,-74.29
+1650169,Forest River RV Forester MBS 2401R,2017,8,235.0,2,1,1,False,4,24.0,100.0,Pine Bush,NY,41.62,-74.37
+1639400,Storyteller Overland Storyteller Overland Stealth MODE 4x4,2022,3,289.0,2,1,1,False,3,20.0,0.0,Princeton,NJ,40.36,-74.66
+1661494,Coachmen RV dynamax Starflyte,2000,25,150.0,1,0,1,False,3,21.0,0.0,Princeton,NJ,40.35,-74.65
+1747770,Thor Motor Coach Sequence 20L,2023,2,220.0,1,1,0,False,5,21.0,93.333,Lansdale,PA,40.25,-75.28
+1557969,Winnebago Solis 59P,2022,3,295.0,1,0,1,False,4,21.0,88.0,Raritan Township,NJ,40.47,-74.86
+1543370,Winnebago Solis PX59,2022,3,295.0,1,0,1,False,4,21.0,0.0,,NJ,40.53,-74.86
+1456281,Winnebago Travato 59G,2018,7,275.0,1,0,1,False,3,21.0,100.0,Easton,PA,40.68,-75.24
+1720739,Thor Motor Coach Rize 18M,2023,2,395.0,1,1,0,False,2,18.0,0.0,Allentown,PA,40.6,-75.47
+1508471,Winnebago Revel 44E,2021,4,300.0,1,1,0,False,2,19.0,100.0,Los Lunas,NM,34.8,-106.69
+1753289,Ram Ram Promaster 2500,2018,7,175.0,1,1,0,False,2,20.0,100.0,Albuquerque,NM,35.12,-106.52
+1634099,Volkswagen VW Westfalia,1985,40,164.0,2,1,1,False,4,15.0,87.273,Albuquerque,NM,35.09,-106.6
+1486491,Dodge Pro Master 2500,2019,6,208.0,0,0,0,False,3,20.0,100.0,Albuquerque,NM,35.11,-106.6
+1673898,Thor Motor Coach Sequence 20A,2022,3,249.0,2,1,1,False,4,20.0,100.0,Albuquerque,NM,35.13,-106.71
+1757482,Custom Ford Transit,2019,6,180.0,1,1,0,False,2,20.0,0.0,Albuquerque,NM,35.1,-106.74
+1703608,Mercedes Mercedes Metris,2021,4,145.0,0,0,0,False,2,17.0,100.0,Albuquerque,NM,35.1,-106.74
+1730701,Thor Motor Coach Rize 18T,2022,3,199.0,1,1,0,False,4,17.0,0.0,Albuquerque,NM,35.13,-106.71
+1588614,mercedes sprinter 2500,2016,9,250.0,0,0,0,False,2,19.6,84.0,Corrales,NM,35.23,-106.65
+1452511,Pleasure-Way Ascent TS,2014,11,190.0,2,1,1,False,2,19.0,100.0,Santa Fe,NM,35.67,-105.98
+1666637,Coachmen RV Beyond 22C,2020,5,229.0,2,1,1,False,2,22.0,96.0,Broadalbin,NY,43.12,-74.14
+1189272,Chevy Custom Bus,2006,19,139.0,2,1,1,False,4,19.0,0.0,Endicott,NY,42.11,-76.06
+1700183,Airstream RV Basecamp 20X,2023,2,199.0,2,0,1,True,4,20.0,0.0,Roscoe,NY,42.05,-74.87
+1662692,Thor Motor Coach Gemini AWD 23TW,2022,3,225.0,3,1,1,True,3,23.0,100.0,Depew,NY,42.92,-78.69
+1756724,Thor Motor Coach Tellaro 20A,2022,3,223.0,2,1,1,False,2,21.0,0.0,Elma,NY,42.86,-78.65
+1723590,American Coach American Patriot FD2,2022,3,239.0,1,0,1,False,2,19.0,100.0,Syracuse,NY,43.01,-76.12
+1668437,Forest River RV Salem Cruise Lite 261BHXL,2018,7,207.0,0,0,0,False,10,29.0,0.0,Pennellville,NY,43.24,-76.22
+1715850,Winnebago View 24H,2008,17,179.0,1,0,1,False,6,24.5,50.0,Syracuse,NY,43.01,-76.12
+1631996,Pleasure-Way Plateau FL,2013,12,250.0,2,1,1,False,2,26.0,0.0,Farmington,NY,42.99,-77.37
+1658999,Thor Motor Coach Sequence 20J,2022,3,254.0,1,0,1,False,4,21.0,100.0,Webster,NY,43.23,-77.49
+1681914,Pleasure-Way Ford Excel TS,2008,17,143.0,2,1,1,False,2,20.0,0.0,Churchville,NY,43.1,-77.89
+1654331,Thor Motor Coach Sanctuary 19P,2021,4,275.0,1,1,0,False,2,19.0,0.0,Pittsford,NY,43.06,-77.57
+1717014,Thor Motor Coach Sequence 20A,2022,3,269.0,1,0,1,False,4,21.0,0.0,Rochester,NY,43.28,-77.66
+1683767,Winnebago Solis 59PX,2023,2,205.0,2,1,0,True,4,21.0,100.0,Kernersville,NC,36.14,-80.13
+1748757,Dave and Matt Van Dave and Matt Van L5,2022,3,216.0,1,0,1,False,2,19.5,100.0,Morrisville,NC,35.89,-78.8
+1755870,Winnebago Solis 59PX,2022,3,242.0,2,1,1,False,2,21.0,0.0,High Point,NC,35.9,-80.0
+1600685,Ford Transit Camper Van,2020,5,220.0,2,1,1,False,2,22.0,100.0,Danville,VA,36.65,-79.43
+1715708,Thor Motor Coach Gemini AWD 23TW,2022,3,185.0,3,1,1,True,4,23.0,100.0,Lenoir,NC,35.89,-81.52
+1746285,Airstream RV Tommy Bahama Interstate Lounge,2020,5,245.0,3,1,1,True,4,24.0,88.0,Salisbury,NC,35.64,-80.47
+1667749,Winnebago Revel 44E,2022,3,225.0,2,1,0,True,2,19.0,100.0,Charlotte,NC,35.25,-80.87
+1717084,Volkswagen Vanagon Adventurewagen,1990,35,165.0,1,1,0,False,4,15.0,0.0,Sherrills Ford,NC,35.57,-80.98
+1750129,Airstream RV Interstate Lounge Extended,2013,12,189.0,3,1,1,True,4,24.0,0.0,Salisbury,NC,35.64,-80.47
+1742398,Winnebago Revel 44E,2020,5,277.0,2,0,1,True,3,19.0,100.0,Concord,NC,35.43,-80.62
+1754354,other Tesla Cybertruck,2025,0,199.0,2,0,1,True,3,19.0,0.0,Salisbury,NC,35.64,-80.47
+1757653,Ford E-150 Custom Camper Van,2007,18,115.0,1,1,0,False,2,18.0,0.0,Mecklenburg County,NC,35.36,-80.82
+1580488,Airstream RV Interstate 24gl Ext,2021,4,320.0,1,0,1,False,4,24.0,100.0,Kings Mountain,NC,35.24,-81.33
+1700196,Winnebago Solis 59PX,2023,2,220.0,2,1,1,False,4,21.0,100.0,Waxhaw,NC,35.0,-80.81
+1733266,Ultimate Toys Ultimate RV Std. Model,2025,0,400.0,2,0,1,True,2,24.0,0.0,Charlotte,NC,35.23,-80.83
+1698315,Thor Motor Coach Scope 18M,2021,4,256.0,2,1,1,False,2,17.0,0.0,Southern Pines,NC,35.19,-79.4
+1726639,Thor Motor Coach Sanctuary 19L,2021,4,200.0,2,1,0,True,2,19.0,100.0,Fletcher,NC,35.51,-82.42
+1643490,Coach House Platinum 232XL FS,2002,23,133.0,1,0,1,False,2,23.0,0.0,Alexander,NC,35.74,-82.64
+1695125,Coachmen RV Galleria 24D,2018,7,199.0,0,0,0,False,2,24.0,0.0,Chocowinity,NC,35.51,-77.02
+1594989,Ford Ford Transit 250,2015,10,150.0,0,0,0,False,2,19.5,100.0,Castle Hayne,NC,34.33,-77.89
+1634911,Coachmen RV Galleria 24T,2022,3,229.0,2,0,1,True,2,24.0,88.571,Wilmington,NC,34.15,-77.9
+1697395,Dodge Ram Promaster Ram Promaster 2500,2021,4,206.0,1,1,0,False,3,20.0,100.0,Hampstead,NC,34.36,-77.7
+1686833,Midwest Automotive Designs Daycruiser Floorplan 1,2024,1,375.0,1,1,0,False,10,24.0,100.0,Asheville,NC,35.49,-82.5
+1246886,Ram Promaster 1500,2014,11,220.0,1,0,0,True,2,17.0,96.364,Mills River,NC,35.39,-82.58
+1593296,Dodge RAM ProMaster 2500,2020,5,175.0,2,1,1,False,2,18.0,100.0,Canton,NC,35.57,-82.83
+1611115,Winnebago Boldt 70 KL,2020,5,349.0,2,1,1,False,2,23.0,100.0,Fletcher,NC,35.48,-82.44
+1456252,mercedes sprinter 2500,2019,6,355.0,0,0,0,False,2,19.0,0.0,Asheville,NC,35.59,-82.6
+1728629,Dave & Matt Vans Ram Promaster LV 5.1,2024,1,250.0,0,0,0,False,2,19.0,0.0,Fletcher,NC,35.44,-82.52
+1033800,Coachmen RV Galleria 24Q,2018,7,200.0,1,0,1,False,2,24.0,100.0,Brevard,NC,35.25,-82.61
+1524085,Pleasure-Way Plateau TS,2013,12,225.0,1,0,1,False,2,22.0,100.0,Charlotte,NC,35.17,-81.0
+1607820,Winnebago Solis 59PX,2021,4,229.0,2,1,1,False,5,21.0,100.0,Chesapeake,VA,36.69,-76.25
+1648674,Winnebago Travato 59K,2022,3,209.0,3,1,1,True,2,21.0,100.0,Carrollton,VA,36.99,-76.55
+1758491,Thor Motor Coach Rize 18M,2023,2,180.0,2,1,1,False,2,17.0,0.0,Norfolk,VA,36.94,-76.24
+1702993,Renegade Villagio 25HAB,2014,11,211.0,2,0,1,True,3,25.0,0.0,Smithfield,VA,36.98,-76.61
+1624585,Mercedes Benz Sprinter 2500,2019,6,230.0,0,0,0,False,2,19.0,96.0,Knoxville,TN,35.93,-84.04
+1677704,Winnebago Revel 44E,2019,6,210.0,1,0,0,True,3,19.0,90.0,Knoxville,TN,35.91,-84.03
+1589289,Midwest Automotive Designs Daycruiser D6,2022,3,375.0,0,0,0,False,2,24.0,70.0,Greer,SC,34.88,-82.26
+1625901,Midwest Automotive Designs Daycruiser D6,2023,2,325.0,1,1,0,False,2,24.0,100.0,Strongsville,OH,41.31,-81.82
+1449790,Roadtrek E-Trek E-Trek,2015,10,285.0,2,1,1,False,4,24.0,84.545,Olmsted Township,OH,41.36,-81.95
+1242788,Airstream RV Interstate Grand Tour EXT Std. Model,2019,6,200.0,1,0,1,False,2,19.0,0.0,Youngstown,OH,41.01,-80.67
+1602035,Winnebago Solis 59P,2022,3,213.0,2,1,1,False,5,20.0,98.333,Columbus,OH,40.04,-83.02
+1758526,Winnebago Solis 59P,2022,3,213.0,2,1,1,False,5,20.0,0.0,Lewis Center,OH,40.18,-82.99
+1658407,Thor Motor Coach Tellaro 20K,2022,3,226.0,2,1,1,False,3,21.0,100.0,Westerville,OH,40.12,-82.93
+1637413,Unknown RAM Promaster 2500,2022,3,245.0,2,1,1,False,2,19.0,100.0,Zelienople,PA,40.76,-80.13
+1757195,Coachmen RV Crossfit 22D,2019,6,200.0,2,1,1,False,2,22.0,0.0,Solon,OH,41.36,-81.45
+1717039,Midwest Automotive Designs Daycruiser 144 Plan A,2024,1,385.0,1,1,0,False,2,19.5,0.0,Anna,TX,33.35,-96.59
+1755453,Roam Overland The Mesa 159 Ext,2019,6,225.0,1,0,1,False,2,25.0,0.0,Mustang,OK,35.41,-97.75
+1720590,Thor Motor Coach Scope 18G,2024,1,295.0,1,0,1,False,4,18.0,0.0,Oklahoma City,OK,35.4,-97.6
+1553419,Winnabago Solis 59PX,2022,3,250.0,2,1,1,False,4,21.0,100.0,Edmond,OK,35.66,-97.57
+1742191,Unknown Vandrews Adventure Sprinter High Roof 144,2007,18,150.0,2,0,1,True,4,20.0,100.0,Arcadia,OK,35.69,-97.37
+1749390,Thor Motor Coach Dazzle 2LB,2024,1,250.0,2,1,1,False,2,21.0,0.0,Shawnee,OK,35.4,-96.82
+1736376,Winnebago Boldt 70 BL,2020,5,175.0,1,1,0,False,2,23.0,100.0,Tulsa,OK,36.15,-96.03
+1752042,Thor Motor Coach Tellaro 20A,2024,1,239.0,3,1,1,True,4,21.0,0.0,Harrisburg,OR,44.28,-123.17
+1736701,Winnebago Solis 59PX,2021,4,199.0,2,0,1,True,4,21.0,90.0,Corvallis,OR,44.57,-123.26
+1758410,Outdoors RV Ford 18ft,2016,9,165.0,2,0,1,True,4,18.0,0.0,Eugene,OR,44.13,-123.1
+1754871,Activan Mercedes-Benz Cypress 170,2022,3,240.0,1,1,0,False,2,24.0,0.0,Salem,OR,44.84,-123.03
+1671227,FORD TRANSIT 250,2016,9,203.0,1,0,1,False,4,19.0,100.0,Creswell,OR,43.93,-123.02
+1701571,Winnebago Revel 44E,2020,5,213.0,1,1,0,False,2,19.0,100.0,Canby,OR,45.2,-122.59
+1724043,Winnebago Solis 59P,2022,3,192.0,1,1,0,False,4,19.0,100.0,Clackamas County,OR,45.41,-122.54
+1705265,Winnebago Solis 59PX,2022,3,220.0,3,1,1,True,4,21.0,98.75,Portland,OR,45.45,-122.73
+1708814,Ford Transit T-250,2021,4,225.0,2,1,0,True,2,24.0,100.0,Troutdale,OR,45.54,-122.38
+1704959,Winnebago Revel 44E,2022,3,210.0,1,1,0,False,2,19.0,100.0,Portland,OR,45.57,-122.66
+1736698,Winnebago Solis 59PX,2025,0,199.0,2,0,1,True,4,21.0,100.0,Lake Oswego,OR,45.42,-122.68
+1662499,Roadtrek Popular 210-Popular,2005,20,160.0,2,1,1,False,3,21.0,100.0,Portland,OR,45.47,-122.5
+1533080,RAM ProMaster 2500 ProMaster 2500,2020,5,225.0,2,1,1,False,4,19.0,95.789,Portland,OR,45.47,-122.69
+1571590,Thor Motor Coach Tellaro 20AT,2022,3,245.0,2,1,1,False,4,21.0,100.0,Vancouver,WA,45.65,-122.62
+1514439,Winnebago Travato 59G,2018,7,235.0,2,1,1,False,4,21.0,90.769,Beaverton,OR,45.48,-122.81
+1755444,Mercedes-Benz Mercedes-Benz Sprinter,2016,9,138.0,1,0,1,False,4,19.0,0.0,Canby,OR,45.26,-122.69
+1618389,Winnebago Solis 59P,2022,3,275.0,2,1,0,True,4,19.0,95.0,Portland,OR,45.46,-122.64
+1548207,Winnebago Solis 59P,2022,3,240.0,2,1,1,False,4,19.0,98.182,Portland,OR,45.48,-122.68
+1582978,Winnebago Travato 59K,2022,3,253.0,2,1,1,False,2,21.0,100.0,Vancouver,WA,45.59,-122.48
+1491155,Winnebago Solis 59PX,2021,4,255.0,2,1,1,False,4,21.0,95.556,Portland,OR,45.48,-122.68
+1754488,Winnebago Solis 59P,2022,3,200.0,1,0,1,False,4,19.0,0.0,Portland,OR,45.41,-122.59
+1751362,Ford Ford Ford Transit AWD HR 148 GRIT OVERLAND GO A/T,2022,3,250.0,3,1,1,True,4,22.0,0.0,Tigard,OR,45.42,-122.76
+1623736,Dodge Sprinter 2500,2004,21,205.0,2,1,1,False,2,17.0,85.0,Portland,OR,45.49,-122.72
+1247043,Winnebago Boldt 70 BL,2020,5,350.0,1,0,1,False,3,23.0,100.0,Vancouver,WA,45.61,-122.51
+1755308,Volkswagen Tiguan SE,2012,13,100.0,1,0,1,False,2,14.0,0.0,Portland,OR,45.57,-122.64
+1745349,Unknown Mercedes Benz Sprinter,2019,6,215.0,1,0,1,False,2,22.0,0.0,Portland,OR,45.58,-122.67
+1545493,Winnebago Revel Revel,2020,5,245.0,1,1,0,False,2,19.0,100.0,Portland,OR,45.56,-122.64
+1714001,Winnebago VW Eurovan Full Camper,1999,26,140.0,2,1,1,False,4,17.0,100.0,Portland,OR,45.54,-122.63
+1491150,Winnebago Solis 59PX,2021,4,255.0,2,1,1,False,4,21.0,96.667,Portland,OR,45.48,-122.68
+1713987,Winnebago Volkswagon Eurovan Camper,1997,28,140.0,2,1,1,False,4,16.0,100.0,Portland,OR,45.54,-122.63
+1671165,Freightliner Freightliner Sprinter,2019,6,209.0,1,1,0,False,2,22.8,100.0,Newberg,OR,45.32,-122.97
+1741911,dodge promaster david matt LV 3,2024,1,235.0,0,0,0,False,2,22.0,0.0,Vancouver,WA,45.61,-122.54
+1538560,Nissan Nissan NV 1500 HI,2013,12,156.0,0,0,0,False,2,17.0,86.667,Portland,OR,45.49,-122.6
+1607058,Dodge Ram Promaster 2500 Wheelbase,2018,7,140.0,0,0,0,False,2,19.6,100.0,Wilsonville,OR,45.31,-122.79
+1562498,Winnebago Era 70X,2015,10,191.0,2,1,1,False,2,24.0,80.0,Portland,OR,45.56,-122.61
+1691914,Winnebago Era 70X,2018,7,235.0,1,0,1,False,2,24.0,0.0,Damascus,OR,45.42,-122.47
+1450298,Mercedes Benz Mercedes Benz Sprinter 4x4,2019,6,250.0,1,0,1,False,4,12.0,0.0,Portland,OR,45.54,-122.71
+1686181,Airstream Rangeline Rangeline,2023,2,265.0,2,1,1,False,4,21.0,100.0,Portland,OR,45.5,-122.77
+1713988,Winnebago Volkswagon Eurovan Full Camper,2000,25,140.0,2,1,1,False,4,16.0,90.0,Portland,OR,45.54,-122.63
+1713990,Winnebago volkswagon Eurovan Camper,1997,28,140.0,2,1,1,False,4,17.0,100.0,Portland,OR,45.54,-122.63
+1713992,Winnebago Volkswagon Eurovan camper,2001,24,140.0,2,1,1,False,4,17.0,100.0,Portland,OR,45.54,-122.63
+1714004,Winnebago Volkswagon Eurovan Full camper,1999,26,140.0,2,1,1,False,4,16.0,0.0,Portland,OR,45.54,-122.63
+1628436,Mercedes Sprinter Mercedes,2021,4,275.0,1,1,0,False,4,22.0,0.0,Brush Prairie,WA,45.74,-122.48
+1709429,Winnebago Era 170X,2010,15,185.0,2,1,1,False,2,24.0,20.0,Portland,OR,45.53,-122.58
+1737921,ford Econoline E250,2013,12,191.0,2,0,1,True,2,18.0,0.0,Hillsboro,OR,45.5,-122.9
+1738028,Coachmen RV Ford E350,2006,19,180.0,2,0,1,True,2,18.0,0.0,Hillsboro,OR,45.5,-122.9
+1541822,Winnebago Revel 44E,2022,3,315.0,1,1,0,False,3,19.5,0.0,Hillsboro,OR,45.54,-122.9
+1753028,Forest River RV Coachmen Pixel 2.0,2026,-1,230.0,2,1,1,False,4,20.0,0.0,North Plains,OR,45.6,-123.0
+1700978,Winnebago Era 70X,2016,9,150.0,0,0,0,False,2,24.0,100.0,McMinnville,OR,45.21,-123.2
+1646497,Winnebago Solis 59P,2022,3,250.0,1,1,0,False,4,19.0,100.0,Nehalem,OR,45.71,-123.92
+1675080,Winnebago Solis 59P,2023,2,215.0,1,1,0,False,4,19.75,100.0,Bend,OR,44.02,-121.33
+1675327,Hymer Aktiv Std. Model,2018,7,234.0,1,0,1,False,2,19.0,100.0,Redmond,OR,44.24,-121.2
+1737742,Thor Motor Coach Tranquility 19L,2024,1,199.0,2,0,1,True,3,19.0,100.0,Redmond,OR,44.32,-121.24
+1702686,Ford Transit 250,2023,2,212.0,2,1,0,True,4,22.0,100.0,Bend,OR,44.05,-121.32
+1658701,Champiom TransVan M-206-RD-FA,1990,35,100.0,1,1,0,False,3,21.0,0.0,Bend,OR,44.06,-121.27
+1575609,Dodge Ram Pro Master,2021,4,289.0,1,0,1,False,2,17.75,0.0,Bend,OR,44.05,-121.27
+1636780,Thor Motor Coach Tranquility 19p,2022,3,217.0,3,1,1,True,3,19.0,100.0,Bend,OR,44.08,-121.26
+1662630,Thor Motor Coach Tranquility 19P,2023,2,218.0,3,1,1,True,3,20.0,100.0,Bend,OR,44.08,-121.26
+1703426,Entegra Coach Launch 19Y,2024,1,218.0,3,1,1,True,4,21.0,100.0,Bend,OR,44.08,-121.26
+1676867,Van Dolt Liv Class B Class B,2022,3,199.0,3,1,1,True,2,20.0,0.0,Bend,OR,44.08,-121.26
+1726615,Winnebago Revel 44E,2024,1,227.0,2,1,1,False,4,19.6,0.0,Bend,OR,44.08,-121.26
+1707245,Thor Motor Coach Tellaro 20A,2022,3,200.0,1,0,1,False,2,21.0,0.0,Bend,OR,44.04,-121.3
+1450643,Ford Ford E-250 Van,1997,28,150.0,2,0,1,True,2,19.0,0.0,Bend,OR,44.06,-121.34
+1744578,Thor Motor Coach Sequence 20A,2024,1,236.0,2,0,1,True,4,20.0,0.0,Grants Pass,OR,42.44,-123.3
+1659873,Roadtrek Ram 3500 Pro Master Cargo,2022,3,271.0,3,1,1,True,4,20.9,100.0,Medford,OR,42.3,-122.88
+1435162,Winnebago Era 70X,2019,6,125.0,2,1,1,False,2,24.0,100.0,McMinnville,OR,45.21,-123.22
+1595011,Winnebago Solis 59P,2022,3,220.0,1,1,0,False,4,19.0,100.0,Leesport,PA,40.46,-75.96
+1595496,Sunlight Van 2,2019,6,225.0,0,0,0,False,3,19.6,100.0,Lewisburg,PA,40.93,-76.87
+1618785,Mercedes Benz Sprinter 3500,2021,4,284.0,1,0,1,False,3,21.0,0.0,Edisto Island,SC,32.5,-80.3
+1573718,Thor Motor Coach Sequence 20K,2022,3,191.0,1,1,0,False,4,21.0,100.0,Summerville,SC,32.94,-80.12
+1577116,Thor Motor Coach Sequence 20L,2022,3,200.0,1,0,1,False,2,20.0,96.0,North Charleston,SC,32.86,-80.01
+1727420,Thor Motor Coach Rize 18M,2022,3,125.0,2,0,1,True,2,17.0,100.0,North Charleston,SC,32.89,-80.07
+1580484,Dodge Ram Promaster,2021,4,185.0,1,0,0,True,2,19.0,100.0,Rapid City,SD,44.04,-103.21
+1726904,Ford Transit Van,2019,6,225.0,1,1,0,False,2,21.0,100.0,Rapid City,SD,44.07,-103.2
+1718805,Thor Motor Coach Rize 18M,2023,2,275.0,3,1,1,True,2,17.0,100.0,Brentwood,TN,36.04,-86.78
+1734526,Thor Motor Coach Sequence 20J,2022,3,200.0,1,0,0,True,4,21.0,60.0,Thompson's Station,TN,35.78,-86.9
+1191922,Mercedes sprinter 2500,2012,13,150.0,2,0,1,True,2,19.5,100.0,Nashville,TN,36.09,-87.0
+1699578,Ultimate Toys Ultimate RV Std. Model,2024,1,300.0,2,1,1,False,2,25.0,100.0,Odessa,TX,31.88,-102.36
+1617277,Midwest Automotive Designs Daycruiser D6,2020,5,375.0,0,0,0,False,2,22.0,0.0,Nacogdoches,TX,31.63,-94.64
+1534664,Coachmen RV Crossfit 22C,2019,6,265.0,2,1,1,False,2,22.0,100.0,Amarillo,TX,35.24,-101.93
+1641800,Thor Motor Coach Rize 18M,2023,2,225.0,2,1,1,False,2,17.0,100.0,San Antonio,TX,29.57,-98.52
+1743557,Winnebago Solis 59PX,2021,4,248.0,2,1,1,False,4,21.0,100.0,Montgomery,TX,30.28,-95.62
+1677761,Winnebago Solis 59PX,2023,2,233.0,2,1,1,False,6,21.0,100.0,San Antonio,TX,29.66,-98.43
+1614675,Winnebago Solis 59PX,2021,4,250.0,2,1,1,False,4,21.0,100.0,Austin,TX,30.32,-97.87
+1440170,Ford Mobile Mural Custom Campervan,2006,19,109.0,0,0,0,False,3,17.67,94.737,Austin,TX,30.17,-97.73
+1734816,Ram Promaster 2500,2021,4,199.0,1,1,0,False,2,19.0,0.0,Austin,TX,30.3,-97.66
+1671182,Thor Motor Coach Tellaro 20A,2022,3,349.0,1,0,1,False,2,21.0,0.0,Austin,TX,30.24,-97.76
+1726150,Thor Motor Coach Compass AWD 23TE,2024,1,210.0,2,1,1,False,2,23.0,100.0,Dripping Springs,TX,30.21,-98.09
+1615729,Dodge 2500 Promaster,2021,4,174.0,2,0,1,True,2,18.0,100.0,Kyle,TX,30.0,-97.86
+1250033,Winnebago Revel 44E,2023,2,220.0,1,1,0,False,2,19.0,100.0,Austin,TX,30.28,-97.68
+1482184,Winnebago Revel 44E,2021,4,289.0,1,1,0,False,2,19.0,100.0,Austin,TX,30.26,-97.77
+1567546,Winnebago Era 70X,2016,9,184.0,2,1,1,False,2,24.0,95.294,Driftwood,TX,30.16,-98.08
+1735784,Unknown Big Bite 8X16 Hydraulic,1990,35,149.0,0,0,0,False,2,16.0,0.0,Austin,TX,30.29,-97.75
+1641868,Coachmen RV Galleria 24T,2018,7,215.0,1,0,1,False,2,24.0,100.0,Buda,TX,30.04,-97.79
+1611581,Pleasure-Way Mercedes Benz Plateau Plateau TD,2022,3,251.0,1,1,0,False,2,19.0,100.0,Buda,TX,30.05,-97.83
+1661148,Coachmen RV Nova 20RB,2022,3,190.0,2,1,1,False,2,22.0,0.0,Austin,TX,30.26,-97.74
+1675483,LCW Automotive Mercedes-Benz Supreme Sprinter,2022,3,375.0,0,0,0,False,1,24.0,0.0,Wimberley,TX,30.0,-98.0
+1740377,Airstream RV Interstate Lounge EXT Std. Model,2018,7,200.0,3,1,1,True,2,24.0,100.0,New Braunfels,TX,29.79,-98.02
+1600279,Sportsmobile Custom Designed Designed,2013,12,400.0,1,0,1,False,2,20.0,0.0,Round Rock,TX,30.46,-97.66
+1581368,Roadtrek Popular 190,1995,30,250.0,2,1,1,False,2,19.0,0.0,Austin,TX,30.3,-97.74
+1756765,Leisure Travel Unity U24CB,2013,12,175.0,3,1,1,True,3,24.0,0.0,New Braunfels,TX,29.79,-98.02
+1620076,Thor Motor Coach Scope 18M,2022,3,243.0,2,1,1,False,2,18.0,100.0,Cedar Park,TX,30.51,-97.81
+1233854,Airstream RV Interstate Grand Tour EXT Grand Tour EXT,2018,7,300.0,1,0,1,False,2,24.0,0.0,Georgetown,TX,30.71,-97.75
+1733213,Dodge sprinter 2500,2006,19,126.0,2,1,0,True,4,22.0,0.0,Lampasas,TX,31.06,-98.2
+1728828,Coachmen RV Galleria 24Q,2021,4,257.0,1,0,1,False,2,24.0,0.0,New Braunfels,TX,29.66,-98.08
+1232332,Winnebago Solis 59PX,2023,2,350.0,2,1,1,False,4,21.0,100.0,Canyon Lake,TX,29.88,-98.26
+1545232,Forest River RV Lexington 295DS,2010,15,198.0,1,0,1,False,6,31.0,100.0,Buchanan Dam,TX,30.76,-98.46
+1707302,Vast Overland Promaster 2500,2023,2,209.0,2,1,0,True,4,20.0,100.0,Houston,TX,29.82,-95.43
+1665720,Thor Motor Coach Tranquility 19P,2023,2,299.0,1,1,0,False,2,19.8,100.0,Houston,TX,29.79,-95.44
+1580742,Thor Motor Coach scope 18m,2022,3,241.0,2,1,1,False,2,18.0,0.0,Willis,TX,30.46,-95.54
+1749220,Ford Transit Short,2022,3,245.0,1,0,1,False,4,18.0,0.0,Sulphur Springs,TX,33.12,-95.59
+1736581,Midwest Automotive Designs Weekender Sprinter MD2-Dinette,2017,8,201.0,1,0,1,False,2,24.0,0.0,Porter,TX,30.09,-95.27
+1593808,Winnebago Solis 59PX,2022,3,251.0,2,1,1,False,4,21.0,98.0,Allen,TX,33.09,-96.72
+1754600,FORD ECONOLINE 350XL,2006,19,90.0,2,1,0,True,2,20.0,100.0,Richardson,TX,32.95,-96.71
+1757757,mercedes Mercedes Sprinter,2020,5,169.0,3,1,1,True,2,19.0,0.0,Rockwall,TX,32.93,-96.47
+1546592,Winnebago Travato 59G,2020,5,275.0,1,0,1,False,4,21.0,100.0,McKinney,TX,33.13,-96.72
+1709849,Airstream RV Interstate 24GT Std. Model,2021,4,282.0,1,0,1,False,2,24.0,0.0,The Colony,TX,33.08,-96.86
+1657630,Regency RV Xalta 4.2,2023,2,289.0,1,0,1,False,2,24.0,100.0,Fate,TX,32.94,-96.4
+1634811,Ford Ford Transit,2015,10,175.0,1,0,0,True,2,19.8,100.0,Plano,TX,33.02,-96.75
+1556938,Winnebago Travato 59GL,2022,3,255.0,2,1,0,True,2,21.0,100.0,Coppell,TX,32.95,-96.95
+1704825,Storyteller Overland Storyteller Overland MODE 4x4,2021,4,250.0,2,1,1,False,3,19.0,100.0,Rockwall,TX,32.89,-96.44
+1704565,Thor Motor Coach Tranquility 19P,2023,2,230.0,2,0,1,True,2,19.67,0.0,Irving,TX,32.9,-96.96
+1731455,Grech RV Strada-ion Lounge,2022,3,285.0,2,1,1,False,2,24.0,0.0,Rockwall,TX,32.89,-96.44
+1703423,Winnebago Solis Pocket 36A,2022,3,250.0,1,1,0,False,3,17.0,100.0,Rockwall,TX,32.89,-96.44
+1742419,Thor Motor Coach Twist 2LB,2026,-1,275.0,2,1,1,False,2,21.1,0.0,Rockwall,TX,32.89,-96.44
+1623292,Coachmen RV Galleria 24Q,2021,4,325.0,1,0,1,False,2,24.0,100.0,Southlake,TX,32.94,-97.13
+1679549,Midwest Automotive Designs Signature Custom Conversion Sprinter 9 Passenger 170EXT,2019,6,399.0,1,0,1,False,8,20.0,0.0,Southlake,TX,32.93,-97.16
+1680782,Winnebago Solis 59PX,2023,2,275.0,3,1,1,True,4,21.0,100.0,Fort Worth,TX,32.87,-97.32
+1659523,Mercedes Sprinter 3500,2017,8,225.0,1,1,0,False,2,22.8,0.0,Southlake,TX,32.93,-97.2
+1686115,Winnebago Solis 59PX,2023,2,210.0,2,1,1,False,4,21.0,100.0,Fort Worth,TX,32.74,-97.44
+1742538,Dodge Grand Caravan Dodge Jucy Campervan RV,2012,13,119.0,0,0,0,False,4,17.0,0.0,Waxahachie,TX,32.39,-96.84
+1657082,Airstream RV Interstate Interstate Standard,2023,2,246.0,2,1,1,False,2,19.5,0.0,Fort Worth,TX,32.85,-97.42
+1730231,Thor Motor Coach Scope 18M,2022,3,253.0,3,1,1,True,2,17.0,0.0,Benbrook,TX,32.69,-97.46
+1748744,"Mercedes Benz Sprinter 2500 144""",2016,9,100.0,1,0,1,False,2,19.4,0.0,Cleveland,TX,30.28,-95.18
+1742966,Jayco Swift 20D,2024,1,280.0,1,1,0,False,4,21.0,100.0,Pleasant View,UT,41.33,-111.98
+1725424,Thor Motor Coach Tellaro 20AT,2021,4,210.0,3,1,1,True,4,20.0,96.0,Kaysville,UT,41.05,-111.92
+1602956,Thor Motor Coach Scope 18M,2022,3,220.0,2,0,1,True,2,18.0,100.0,Clinton,UT,41.15,-112.08
+1725430,Thor Motor Coach Sanctuary 19L,2022,3,210.0,3,1,1,True,2,19.0,100.0,Kaysville,UT,41.05,-111.92
+1725213,Roadtrek Roadtrek RS-Adventurous,2011,14,190.0,3,1,1,True,4,22.0,100.0,Kaysville,UT,41.05,-111.92
+1726322,Thor Motor Coach Scope 18A,2023,2,229.0,2,0,1,True,4,17.0,100.0,Clinton,UT,41.15,-112.08
+1452460,Dodge Grand Caravan SE,2018,7,109.0,2,0,1,True,5,17.0,100.0,Layton,UT,41.07,-112.0
+1596355,Winnebago Solis 59P,2021,4,239.0,3,1,1,True,5,20.0,100.0,Layton,UT,41.07,-112.0
+1613603,Ford Transit Connect,2013,12,124.0,1,0,0,True,2,15.0,0.0,South Weber,UT,41.14,-111.96
+1239904,Ram Ram Promaster,2017,8,150.0,1,0,1,False,2,20.0,100.0,Farmington,UT,41.0,-111.91
+1663800,Mercedes Sprinter 3500,2020,5,290.0,0,0,0,False,2,22.0,0.0,Farmington,UT,40.97,-111.92
+1725109,RAM 3500 Promaster Cargo,2019,6,165.0,1,1,0,False,3,21.0,100.0,Salt Lake City,UT,40.74,-111.94
+1638840,Dodge Ram Promaster 2500,2017,8,135.0,0,0,0,False,2,18.0,100.0,Centerville,UT,40.92,-111.89
+1613117,Ford Transit XLT 350,2017,8,165.0,1,1,0,False,3,19.0,99.167,Park City,UT,40.72,-111.54
+1713956,Winnebago Solis 59P,2020,5,159.0,1,0,1,False,4,19.0,100.0,Salt Lake City,UT,40.71,-111.85
+1646756,Mercedes Mercedes SWB,2016,9,200.0,0,0,0,False,4,20.0,100.0,Salt Lake City,UT,40.71,-111.84
+1717657,Mercedes Benz/Thor Sanctuary 19L Campervan,2022,3,261.0,2,1,0,True,2,20.0,100.0,South Jordan,UT,40.55,-112.0
+1682747,Winnebago Solis 59PX,2023,2,268.0,2,1,1,False,4,21.0,100.0,Salt Lake City,UT,40.73,-111.86
+1721750,Storyteller Overland Storyteller Overland Stealth MODE 4x4,2022,3,255.0,1,1,0,False,3,19.0,100.0,Draper,UT,40.53,-111.88
+1690863,Mercedes Benz Revel Sprinter 4x4 2500,2021,4,260.0,2,1,0,True,3,20.0,100.0,South Jordan,UT,40.55,-112.0
+1679903,Ford Transit 250,2017,8,199.0,2,1,0,True,2,19.0,100.0,South Jordan,UT,40.55,-112.0
+1744683,Custom Built Off-Grid Freightliner Sprinter 2500,2017,8,189.0,1,1,0,False,2,23.0,100.0,West Jordan,UT,40.62,-111.93
+1671206,Nissan NV 2500,2012,13,150.0,2,1,1,False,2,24.0,100.0,Salt Lake City,UT,40.74,-111.93
+1564913,Gulf Stream RV Vista Cruiser Sprinter G22,2007,18,234.0,2,1,1,False,2,22.0,100.0,Murray,UT,40.68,-111.87
+1709013,Dodge Dodge RAM Promaster 2500,2021,4,180.0,2,1,1,False,5,20.0,100.0,Cottonwood Heights,UT,40.61,-111.8
+1194195,Winnebago Revel 44E,2019,6,270.0,1,1,0,False,3,19.5,100.0,Salt Lake City,UT,40.73,-111.86
+1714623,Mercedez Sprinter 2500,2019,6,162.0,2,1,0,True,2,12.0,0.0,Holladay,UT,40.65,-111.84
+1663892,ford ford transit,2022,3,175.0,1,1,0,False,2,22.0,0.0,Salt Lake City,UT,40.8,-111.94
+1655794,Mercedes Sprinter 170 4x4,2022,3,275.0,1,1,0,False,3,20.0,100.0,Bountiful,UT,40.86,-111.86
+1749176,Mercedes Sprinter 2500,2021,4,225.0,2,0,1,True,2,22.0,0.0,South Jordan,UT,40.58,-111.93
+1615673,Winnebago Era 170X,2017,8,249.0,2,1,1,False,4,24.0,0.0,South Jordan,UT,40.55,-112.01
+1712929,Storyteller Overland Storyteller Overland Stealth MODE 4x4,2021,4,237.0,1,1,0,False,3,19.0,100.0,Salt Lake City,UT,40.63,-111.8
+1737763,27North Adventure Vans Author,2007,18,120.0,0,0,0,False,4,19.0,0.0,South Jordan,UT,40.54,-112.0
+1751325,Mercedes Benz/Vancraft VanCraft Waypoint XL AWD,2025,0,305.0,2,1,1,False,2,22.0,0.0,Salt Lake City,UT,40.71,-111.85
+1624003,Mercedes-Benz Sprinter 419 LWB High,2022,3,180.0,1,0,1,False,4,23.0,0.0,Cottonwood Heights,UT,40.61,-111.8
+1742803,Winnebago Solis Pocket 36A,2022,3,191.0,2,1,1,False,3,17.0,0.0,Salt Lake City,UT,40.73,-111.83
+1600259,Winnebago Transporter T4,2002,23,145.0,1,1,0,False,4,17.0,100.0,Moab,UT,38.58,-109.55
+1645414,Dodge RAM Promaster 2500 Promaster 2500,2021,4,180.0,1,0,1,False,5,20.0,100.0,Cottonwood Heights,UT,40.61,-111.8
+1551733,Mercedes Benz Sprinter 419 LWB High,2020,5,180.0,2,1,1,False,4,23.0,0.0,Cottonwood Heights,UT,40.61,-111.8
+1648009,Winnebago Solis 59PX,2023,2,199.0,1,1,0,False,4,21.0,100.0,Saratoga Springs,UT,40.41,-111.93
+1727479,Thor Motor Coach Sanctuary 19P,2023,2,180.0,3,1,1,True,3,19.5,0.0,Lehi,UT,40.38,-111.88
+1705096,Thor Motor Coach Tellaro 20J,2023,2,255.0,1,1,0,False,4,21.0,100.0,Lehi,UT,40.43,-111.85
+1653860,Ford Ford Transit Connect,2011,14,79.0,1,0,1,False,2,15.0,0.0,Riverton,UT,40.53,-111.92
+1663888,Winnebago Revel 44E,2023,2,288.0,2,1,0,True,2,19.7,100.0,Saratoga Springs,UT,40.37,-111.94
+1722834,Mercedes Sprinter 2500,2015,10,160.0,1,0,1,False,2,23.0,0.0,Salt Lake City,UT,40.7,-111.87
+1531012,Pleasure-Way Tofino Std. Model,2022,3,175.0,1,0,1,False,4,17.0,0.0,Bountiful,UT,40.85,-111.88
+1731005,Thor Motor Coach Sanctuary 19P,2024,1,329.0,2,1,1,False,2,19.0,0.0,Bountiful,UT,40.85,-111.88
+1651980,Thor Motor Coach Sequence 20J,2023,2,199.0,1,1,0,False,4,21.0,100.0,Orem,UT,40.29,-111.72
+1643302,Winnebago Solis 59PX,2023,2,245.0,3,1,1,True,4,21.0,100.0,Provo,UT,40.29,-111.65
+1647992,Winnebago Solis 59PX,2023,2,245.0,3,1,1,True,4,21.0,100.0,Provo,UT,40.29,-111.65
+1624406,Ram Promaster 2500,2019,6,189.0,3,1,1,True,2,19.0,100.0,American Fork,UT,40.37,-111.78
+1672808,Mercedes Sprinter Converted Van,2021,4,219.0,2,1,1,False,4,22.0,0.0,Orem,UT,40.33,-111.7
+1743835,Ford Transit Transit,2022,3,207.0,3,1,1,True,2,22.0,0.0,Mapleton,UT,40.13,-111.58
+1685057,Mercedes Benz Sprinter 2500 Custom,2014,11,196.0,1,1,0,False,6,23.0,100.0,Eagle Mountain,UT,40.35,-111.95
+1722664,Winnebago Revel 44E,2020,5,185.0,1,1,0,False,3,19.0,96.0,Washington,UT,37.13,-113.49
+1753777,Winnebago Revel 44E,2025,0,237.0,0,0,0,False,2,19.0,0.0,St. George,UT,37.05,-113.58
+1682607,Thor Motor Coach Scope 18M,2023,2,199.0,2,0,1,True,2,18.0,100.0,St. George,UT,37.11,-113.56
+1599244,Thor Motor Coach Scope 18T,2022,3,200.0,1,0,1,False,4,18.0,93.333,Santa Clara,UT,37.12,-113.63
+1224733,Ford Transit T-150,2015,10,166.0,1,0,0,True,2,19.0,98.0,Culpeper,VA,38.45,-78.02
+1213170,Mercedes Sprinter 3500,2016,9,149.0,2,1,1,False,2,24.0,100.0,Hardy,VA,37.21,-79.8
+1701690,Winnebago Travato 59GL,2023,2,299.0,2,1,1,False,2,21.0,0.0,Blacksburg,VA,37.24,-80.4
+1745076,Gulf Stream RV Vista Cruiser 19MBS,2006,19,161.0,2,0,1,True,3,21.0,0.0,Christiansburg,VA,37.15,-80.42
+1675363,Winnebago Travato 59KL,2022,3,216.0,3,1,1,True,3,21.0,0.0,Powhatan,VA,37.48,-77.87
+1740125,Jayco Swift 20A,2022,3,224.0,2,1,1,False,2,20.0,100.0,Richmond,VA,37.56,-77.5
+1733764,Winnebago Solis 59PX,2025,0,318.0,3,1,1,True,4,21.0,100.0,Richland,WA,46.3,-119.29
+1669617,Winnebago Era 70X,2012,13,248.0,2,1,1,False,2,24.0,100.0,Wenatchee,WA,47.49,-120.34
+1737042,Coachmen RV Beyond 22C RWD,2020,5,230.0,2,0,1,True,2,22.0,100.0,Olympia,WA,46.99,-122.86
+1681664,Winnebago Travato 59G,2022,3,256.0,2,1,1,False,2,21.0,100.0,Arlington,WA,48.19,-122.17
+1673027,Winnebago Solis 59PX,2022,3,256.0,2,1,1,False,4,21.0,100.0,Arlington,WA,48.19,-122.17
+1491761,Winnebago Solis 59PX,2021,4,250.0,3,1,1,True,4,21.0,100.0,Seattle,WA,47.77,-122.39
+1729111,Thor Motor Coach Tellaro 20A,2022,3,246.0,2,1,1,False,4,21.0,100.0,Everett,WA,47.96,-122.26
+1683188,PAPAGO VANS Mercedes Sprinter 2500 Mercedes Sprinter 2500,2023,2,280.0,1,1,0,False,4,23.0,100.0,Edmonds,WA,47.86,-122.3
+1749420,RAM PROMASTER 2500,2023,2,200.0,2,0,1,True,2,20.0,100.0,Edmonds,WA,47.79,-122.34
+1648424,Winnebago Revel 44E,2018,7,235.0,2,1,1,False,2,19.0,100.0,Anacortes,WA,48.49,-122.67
+1262247,Renegade Villagio 25QRS,2014,11,250.0,2,1,1,False,2,25.0,100.0,Seattle,WA,47.68,-122.36
+1698357,Tiffin Motorhomes Tiffin Motorhomes GH1,2024,1,300.0,2,1,0,True,2,19.0,100.0,Monroe,WA,47.88,-121.98
+1686116,dodge RAM promaster,2020,5,215.0,1,1,0,False,2,18.0,0.0,Seattle,WA,47.7,-122.4
+1568197,Winnebago Solis 59PX,2023,2,280.0,2,1,1,False,4,21.0,100.0,Bremerton,WA,47.6,-122.64
+1564709,Winnebago Solis 59PX,2022,3,350.0,2,1,1,False,4,21.0,100.0,Kirkland,WA,47.68,-122.2
+1752611,MERECEDES SPRINTER 2500,2020,5,230.0,1,0,1,False,2,19.0,0.0,Mill Creek,WA,47.86,-122.22
+1736013,Unknown MercedesBenz 2500,2018,7,229.0,0,0,0,False,2,20.0,80.0,Bainbridge Island,WA,47.7,-122.56
+1664222,mercedes  benz sprinter 2500,2021,4,200.0,1,0,1,False,5,19.5,100.0,Seattle,WA,47.62,-122.3
+1757047,Pleasure-Way Plateau XL Std. Model,2016,9,250.0,2,1,1,False,2,24.0,0.0,Seattle,WA,47.69,-122.36
+1747583,Mercedes Sprinter Sprinter,2011,14,184.0,1,0,1,False,2,26.0,0.0,Snohomish,WA,47.81,-122.12
+1737073,Jayco Swift 20D,2023,2,262.0,3,1,1,True,4,21.0,100.0,Bellevue,WA,47.64,-122.2
+1742184,mercedez sprinter 2500,2023,2,220.0,1,0,1,False,5,19.5,0.0,Seattle,WA,47.62,-122.3
+1125263,Mercedes Benz Sprinter 3500 170 Ext,2010,15,299.0,0,0,0,False,8,24.5,80.0,Redmond,WA,47.68,-122.04
+1754761,Mercedes-Benz Mercedes Benz Sprinter 3500 170 EXT,2014,11,299.0,2,0,1,True,8,24.5,0.0,Redmond,WA,47.68,-122.04
+1438272,Mercedes Benz Sprinter 3500 170 Ext,2014,11,299.0,0,0,0,False,8,24.5,20.0,Redmond,WA,47.68,-122.03
+1757008,Winnebago Roam Open Concept 59RZPT,2024,1,285.0,3,1,1,True,4,21.0,0.0,Bellevue,WA,47.64,-122.2
+1599469,Winnebago Solis 59P,2022,3,247.0,1,1,0,False,4,20.0,100.0,Issaquah,WA,47.54,-122.05
+1725347,Winnebago Revel 44E,2022,3,300.0,1,0,1,False,2,19.0,100.0,Issaquah,WA,47.58,-122.02
+1618822,RAM Promaster Custom Build RAM Promaster High Roof 159 WB,2021,4,248.0,0,0,0,False,2,19.6,100.0,Maple Valley,WA,47.45,-122.02
+1623291,Freight Liner Mercedes Blue tech 2500,2011,14,186.0,1,1,0,False,4,19.0,99.048,Renton,WA,47.49,-122.16
+1755435,Leisure Travel Unity U24RL,2022,3,295.0,2,1,1,False,3,25.0,0.0,Issaquah,WA,47.53,-122.03
+1665199,Winnebago Revel 44E,2023,2,299.0,2,1,1,False,4,19.5,100.0,Milton,WA,47.25,-122.3
+1611787,Thor Motor Coach Tellaro 20LT,2022,3,250.0,1,1,0,False,2,21.0,100.0,Puyallup,WA,47.18,-122.35
+1735790,Mercedes Mercedes-Benz Sprinter 2500 Passanger Van 4WD 3.0L V6 Turbo,2022,3,250.0,1,0,0,True,2,24.0,100.0,Tacoma,WA,47.32,-122.42
+1705472,Thor Motor Coach Sequence 20L,2021,4,243.0,2,1,1,False,2,20.0,100.0,Tacoma,WA,47.25,-122.5
+1684245,FCA US LLC RAM ProMaster 2500,2022,3,215.0,0,0,0,False,2,20.0,100.0,Altoona,WI,44.79,-91.44
+1745944,Winnebago Solis 59P,2022,3,190.0,1,0,1,False,4,19.0,100.0,Eau Claire,WI,44.8,-91.49
+1645401,Winnebago Revel 44E,2022,3,281.0,2,1,1,False,2,19.0,100.0,Green Bay,WI,44.55,-87.92
+1745691,Roadtrek Roadtrek CS Adventurous,2014,11,175.0,3,1,1,True,2,22.0,100.0,Wauwatosa,WI,43.04,-88.0
+1709604,Ram Promaster 3500,2015,10,209.0,0,0,0,False,2,20.0,0.0,Menomonee Falls,WI,43.18,-88.11
+1594736,Mercades Sprinter Van,2014,11,246.0,1,0,1,False,2,23.0,80.0,Elm Grove,WI,43.04,-88.08
