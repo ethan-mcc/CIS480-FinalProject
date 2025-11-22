@@ -228,12 +228,5 @@ def run_scraper():
     process.start()
 
 if __name__ == '__main__':
-    print("="*60)
-    print("RVshare Class B Scraper")
-    print("="*60)
-    print("\nStarting scraper...")
-    print("This will take several minutes due to respectful delays.")
-    print("\nOutput will be saved to: Data/raw/rvshare_classb_scraped.json")
-    print("="*60)
     run_scraper()
 
