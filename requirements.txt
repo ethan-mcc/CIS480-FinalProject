@@ -11,7 +11,7 @@ cssselect==1.3.0
 cycler==0.12.1
 defusedxml==0.7.1
 exceptiongroup==1.3.0
-filelock==3.19.1
+filelock==3.20.1
 fonttools==4.60.1
 geopandas==1.0.1
 greenlet==3.2.4
